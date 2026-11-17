@@ -1,5 +1,131 @@
 [
   {
+    "dedupeKey": "job:82c524da-a8ff-4264-abc8-72da6795877e",
+    "companyId": "company_232d07379862df60a068702fb4788114",
+    "company": "Defense Unicorns",
+    "companyDomain": "defenseunicorns.com",
+    "role": "Agentic AI Engineer",
+    "applyUrl": "https://go.landed.jobs/e6frtn2",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Springfield, VA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "mid",
+    "skills": [
+      "large language models",
+      "AI agents",
+      "Python",
+      "CI/CD",
+      "Kubernetes",
+      "observability",
+      "RAG",
+      "vector databases",
+      "TS",
+      "model serving"
+    ],
+    "posted": "2026-11-16T19:44:43.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Open Source 50",
+      "$1B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 148750,
+      "max": 201250,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 148750,
+      "max": 201250
+    },
+    "median": 195000,
+    "medianBasis": "level",
+    "vsMedian": -10
+  },
+  {
+    "dedupeKey": "job:4c7dff81-2265-41ed-9a12-930704d246be",
+    "companyId": "company_2859720df714ae260f92e607be055cf2",
+    "company": "PsiQuantum",
+    "companyDomain": "psiquantum.com",
+    "role": "Photonics Test and Characterization Engineer",
+    "applyUrl": "https://go.landed.jobs/kl4n2hs",
+    "location": "Milpitas, CA",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "entry",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-11-16T17:28:59.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$7B valuation",
+      "Series E"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 97900,
+      "max": 164300,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 97900,
+      "max": 164300
+    },
+    "median": 109000,
+    "medianBasis": "level",
+    "vsMedian": 20
+  },
+  {
+    "dedupeKey": "job:9fba5d7f-c31c-41d8-a3b3-606b4aeaf001",
+    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
+    "company": "Perplexity",
+    "companyDomain": "perplexity.ai",
+    "role": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
+    "applyUrl": "https://go.landed.jobs/34c1es5",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "staff",
+    "skills": [
+      "Python",
+      "TypeScript",
+      "Go",
+      "Rust"
+    ],
+    "posted": "2026-11-15T01:03:15.716Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$18B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 250000,
+      "max": 405000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 250000,
+      "max": 405000
+    },
+    "median": 253000,
+    "medianBasis": "level",
+    "vsMedian": 29
+  },
+  {
     "dedupeKey": "job:c03f8c01-086e-4e06-8d7e-9b38a4ab7a3e",
     "companyId": "company_9ed265193c7622e1a776bdf68215f82d",
     "company": "Mirage",
@@ -76,9 +202,9 @@
       "min": 347000,
       "max": 385000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 125
+    "vsMedian": 123
   },
   {
     "dedupeKey": "job:f885aa18-6410-4443-8aca-b8621d71a6e0",
@@ -248,9 +374,9 @@
       "min": 300000,
       "max": 320000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 90
+    "vsMedian": 89
   },
   {
     "dedupeKey": "job:d27d6eb7-9e13-4c1c-8c66-416002c3bbfa",
@@ -396,9 +522,46 @@
       "min": 132000,
       "max": 223500
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 9
+    "vsMedian": 8
+  },
+  {
+    "dedupeKey": "job:0cc8d525-005c-4ac5-8a22-63c88f2707b3",
+    "companyId": "company_496a9a7de0a1eb537f6db5d919ea81a0",
+    "company": "Intel",
+    "companyDomain": "intel.com",
+    "role": "AI Frameworks Engineer",
+    "applyUrl": "https://go.landed.jobs/8lfu4wb",
+    "location": "Folsom, CA · Hillsboro, OR",
+    "locations": [
+      "Folsom, CA",
+      "Hillsboro, OR"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$455B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 133410,
+      "max": 240710,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 133410,
+      "max": 240710
+    },
+    "median": 218000,
+    "medianBasis": "role",
+    "vsMedian": -14
   },
   {
     "dedupeKey": "job:aaac749b-cafb-450d-8253-c728a5c57dfa",
@@ -432,9 +595,9 @@
       "min": 172875,
       "max": 253550
     },
-    "median": 184000,
+    "median": 185000,
     "medianBasis": "level",
-    "vsMedian": 16
+    "vsMedian": 15
   },
   {
     "dedupeKey": "job:e4558d7d-f54b-402f-b91a-41292b6e1f06",
@@ -514,7 +677,7 @@
       "min": 164000,
       "max": 235000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
     "vsMedian": 22
   },
@@ -680,9 +843,9 @@
       "min": 235000,
       "max": 376000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": 80
+    "vsMedian": 79
   },
   {
     "dedupeKey": "job:f9a6efc0-42e6-40d0-8696-9e987ba41f39",
@@ -801,9 +964,9 @@
       "min": 168000,
       "max": 233000
     },
-    "median": 135000,
+    "median": 138000,
     "medianBasis": "level",
-    "vsMedian": 49
+    "vsMedian": 45
   },
   {
     "dedupeKey": "job:b10d09a2-8f73-40e6-94ea-a41753a71ef1",
@@ -842,9 +1005,9 @@
       "min": 234000,
       "max": 384000
     },
-    "median": 184000,
+    "median": 185000,
     "medianBasis": "level",
-    "vsMedian": 68
+    "vsMedian": 67
   },
   {
     "dedupeKey": "job:513c78a8-6cd5-4b2f-90c1-191dba988606",
@@ -1000,9 +1163,9 @@
       "min": 129500,
       "max": 194300
     },
-    "median": 135000,
+    "median": 138000,
     "medianBasis": "level",
-    "vsMedian": 20
+    "vsMedian": 17
   },
   {
     "dedupeKey": "job:5b7c5984-15eb-4bd1-b4f6-f4bfdf1235c1",
@@ -1312,9 +1475,9 @@
       "min": 176000,
       "max": 304000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": 41
+    "vsMedian": 40
   },
   {
     "dedupeKey": "job:5dff498b-a1d6-4d49-a63f-c7a7d3205022",
@@ -1514,9 +1677,9 @@
       "min": 160000,
       "max": 235000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 21
+    "vsMedian": 20
   },
   {
     "dedupeKey": "job:12377cc2-be8e-48b9-b3c9-9ad546213b15",
@@ -1559,7 +1722,7 @@
     "companyId": "company_232d07379862df60a068702fb4788114",
     "company": "Defense Unicorns",
     "companyDomain": "defenseunicorns.com",
-    "role": "Senior AI Engineer (FedD239)",
+    "role": "Senior AI Engineer",
     "applyUrl": "https://go.landed.jobs/di0i8dx",
     "location": "🌐 Remote (US)",
     "locations": [
@@ -1641,9 +1804,9 @@
       "min": 148000,
       "max": 240000
     },
-    "median": 163000,
+    "median": 160000,
     "medianBasis": "level",
-    "vsMedian": 19
+    "vsMedian": 21
   },
   {
     "dedupeKey": "job:3b5cb388-3d26-49d7-8b2f-b161f72659f9",
@@ -1682,9 +1845,9 @@
       "min": 228000,
       "max": 304000
     },
-    "median": 135000,
+    "median": 138000,
     "medianBasis": "level",
-    "vsMedian": 97
+    "vsMedian": 93
   },
   {
     "dedupeKey": "job:d5e3028c-c75b-46ac-b91e-4e79575c77cb",
@@ -1718,9 +1881,9 @@
       "min": 240000,
       "max": 360000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": 76
+    "vsMedian": 75
   },
   {
     "dedupeKey": "job:acc84290-0191-41df-82ad-200fe38f941f",
@@ -1798,9 +1961,9 @@
       "min": 180000,
       "max": 450000
     },
-    "median": 202000,
+    "median": 200000,
     "medianBasis": "level",
-    "vsMedian": 56
+    "vsMedian": 57
   },
   {
     "dedupeKey": "job:108d4465-ab71-4233-97ab-48717626c5e9",
@@ -1915,9 +2078,9 @@
       "min": 255000,
       "max": 447000
     },
-    "median": 184000,
+    "median": 185000,
     "medianBasis": "level",
-    "vsMedian": 91
+    "vsMedian": 90
   },
   {
     "dedupeKey": "job:f0fd7b7d-8480-4f93-9296-5b973b216cd5",
@@ -2042,9 +2205,9 @@
       "min": 150000,
       "max": 200000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": 3
+    "vsMedian": 2
   },
   {
     "dedupeKey": "job:59dd9de9-a51a-4ada-ac53-f49f251f7917",
@@ -2083,9 +2246,9 @@
       "min": 174191,
       "max": 249230
     },
-    "median": 202000,
+    "median": 200000,
     "medianBasis": "level",
-    "vsMedian": 5
+    "vsMedian": 6
   },
   {
     "dedupeKey": "job:d89c3c13-6f0c-4801-9eeb-67eb5ad5426c",
@@ -2203,9 +2366,9 @@
       "min": 185000,
       "max": 260000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": 31
+    "vsMedian": 30
   },
   {
     "dedupeKey": "job:434e934d-2a5a-407b-8a8c-119645013a14",
@@ -2245,9 +2408,9 @@
       "min": 169000,
       "max": 250000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 29
+    "vsMedian": 28
   },
   {
     "dedupeKey": "job:46890173-376c-4d34-a024-c77b37935440",
@@ -2327,50 +2490,9 @@
       "min": 268000,
       "max": 325000
     },
-    "median": 202000,
+    "median": 200000,
     "medianBasis": "level",
-    "vsMedian": 47
-  },
-  {
-    "dedupeKey": "job:da92d978-1bc3-4e5d-b177-38792af2287f",
-    "companyId": "company_9ed265193c7622e1a776bdf68215f82d",
-    "company": "Mirage",
-    "companyDomain": "mirage.app",
-    "role": "Software Engineer, Agents",
-    "applyUrl": "https://go.landed.jobs/rr8uqiv",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "AI agents",
-      "RAG",
-      "LLMs",
-      "fine-tuning"
-    ],
-    "posted": "2026-11-09T15:49:27.273Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Digital Media 50",
-      "$500M valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 175000,
-      "max": 300000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 175000,
-      "max": 300000
-    },
-    "median": 208000,
-    "medianBasis": "level",
-    "vsMedian": 14
+    "vsMedian": 48
   },
   {
     "dedupeKey": "job:18b647c1-7834-40df-9056-44e20030cfc4",
@@ -2409,9 +2531,9 @@
       "min": 186200,
       "max": 316500
     },
-    "median": 202000,
+    "median": 200000,
     "medianBasis": "level",
-    "vsMedian": 24
+    "vsMedian": 26
   },
   {
     "dedupeKey": "job:1e381da8-1953-4701-8241-a1c4f6dfbe47",
@@ -2566,9 +2688,9 @@
       "min": 195713,
       "max": 262500
     },
-    "median": 202000,
+    "median": 200000,
     "medianBasis": "level",
-    "vsMedian": 13
+    "vsMedian": 15
   },
   {
     "dedupeKey": "job:71bce67f-f4a3-417b-aa7a-f0394c55c7d8",
@@ -2853,9 +2975,9 @@
       "min": 295000,
       "max": 345000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 96
+    "vsMedian": 95
   },
   {
     "dedupeKey": "job:d9023219-04f7-40a5-80e0-1fe715ba9a09",
@@ -2889,9 +3011,9 @@
       "min": 231200,
       "max": 408000
     },
-    "median": 238000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": 34
+    "vsMedian": 37
   },
   {
     "dedupeKey": "job:02c04245-7f83-447a-b1d5-46db0ce9fcca",
@@ -2928,54 +3050,6 @@
     "median": 253000,
     "medianBasis": "level",
     "vsMedian": 24
-  },
-  {
-    "dedupeKey": "job:770a742e-c808-40dd-9345-70a13edac408",
-    "companyId": "company_38c0d1a14d4a7fad161691eab805119e",
-    "company": "Samsara",
-    "companyDomain": "samsara.com",
-    "role": "Senior Manager, Safety AI",
-    "applyUrl": "https://go.landed.jobs/4jg9sft",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "computer vision",
-      "machine learning",
-      "IMU",
-      "GPS",
-      "data curation",
-      "evaluation",
-      "deployment",
-      "monitoring",
-      "VLMs",
-      "foundation models",
-      "multi-task architectures"
-    ],
-    "posted": "2026-11-06T11:52:44.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hardware 50",
-      "$21.7B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 178640,
-      "max": 287100,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 178640,
-      "max": 287100
-    },
-    "median": 208000,
-    "medianBasis": "level",
-    "vsMedian": 12
   },
   {
     "dedupeKey": "job:084e1d01-c3d3-4828-be85-ffe0e01a923e",
@@ -3060,44 +3134,6 @@
     "vsMedian": 9
   },
   {
-    "dedupeKey": "job:824c5337-1ea9-4408-8898-185c6ad0316b",
-    "companyId": "company_1a1f1762241d4347f22ce5defa6ebcc5",
-    "company": "Applied Materials",
-    "companyDomain": "appliedmaterials.com",
-    "role": "Physicist/Scientist III – Photonics Simulation & Layout Engineer",
-    "applyUrl": "https://go.landed.jobs/2petr91",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-11-06T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$403B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 138000,
-      "max": 190000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 138000,
-      "max": 190000
-    },
-    "median": 163000,
-    "medianBasis": "level",
-    "vsMedian": 1
-  },
-  {
     "dedupeKey": "job:e7a3445d-dcb6-4d53-ae2b-57459cdee5aa",
     "companyId": "company_6268792d1010ee198befb473acab3907",
     "company": "Salesforce",
@@ -3133,9 +3169,9 @@
       "min": 117400,
       "max": 193700
     },
-    "median": 135000,
+    "median": 138000,
     "medianBasis": "level",
-    "vsMedian": 15
+    "vsMedian": 13
   },
   {
     "dedupeKey": "job:ec34700d-6f63-4077-87a7-df9329329a2e",
@@ -3436,9 +3472,9 @@
       "min": 145000,
       "max": 170000
     },
-    "median": 202000,
+    "median": 200000,
     "medianBasis": "level",
-    "vsMedian": -22
+    "vsMedian": -21
   },
   {
     "dedupeKey": "job:ddb9c2b7-4fbf-4a66-9fab-51921b4ef2a7",
@@ -3600,9 +3636,9 @@
       "min": 240000,
       "max": 350000
     },
-    "median": 202000,
+    "median": 200000,
     "medianBasis": "level",
-    "vsMedian": 46
+    "vsMedian": 48
   },
   {
     "dedupeKey": "job:0114526e-2a61-4bcb-a221-1dd558787322",
@@ -3723,9 +3759,51 @@
       "min": 140000,
       "max": 230000
     },
-    "median": 202000,
+    "median": 200000,
     "medianBasis": "level",
-    "vsMedian": -8
+    "vsMedian": -7
+  },
+  {
+    "dedupeKey": "job:4f4b04d7-981d-4926-b18f-5ce50429b614",
+    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
+    "company": "Perplexity",
+    "companyDomain": "perplexity.ai",
+    "role": "Member of Technical Staff (Perplexity Frontier Research)",
+    "applyUrl": "https://go.landed.jobs/av8ggsd",
+    "location": "🌐 Remote (US, UK, Germany)",
+    "locations": [
+      "New York City, NY",
+      "Palo Alto, CA",
+      "London, UK",
+      "San Francisco, CA",
+      "Berlin, Germany"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "staff",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-11-04T21:28:24.737Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$18B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 220000,
+      "max": 485000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 220000,
+      "max": 485000
+    },
+    "median": 200000,
+    "medianBasis": "level",
+    "vsMedian": 76
   },
   {
     "dedupeKey": "job:56c3e760-6e90-473c-9f1b-4518fe4d7821",
@@ -3765,7 +3843,7 @@
       "min": 130000,
       "max": 190000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
     "vsMedian": -2
   },
@@ -3980,7 +4058,7 @@
       "min": 140000,
       "max": 170000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
     "vsMedian": -5
   },
@@ -4021,9 +4099,9 @@
       "min": 160000,
       "max": 195000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 9
+    "vsMedian": 8
   },
   {
     "dedupeKey": "job:0e2c3c06-756f-4092-8978-f9ed8fb7683b",
@@ -4116,7 +4194,7 @@
       "min": 202500,
       "max": 247500
     },
-    "median": 184000,
+    "median": 185000,
     "medianBasis": "level",
     "vsMedian": 22
   },
@@ -4161,9 +4239,9 @@
       "min": 200000,
       "max": 300000
     },
-    "median": 238000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": 5
+    "vsMedian": 7
   },
   {
     "dedupeKey": "job:dedbe1e3-6074-4e7d-a8ef-1e849a3ba300",
@@ -4414,7 +4492,7 @@
     "companyId": "company_1c603a86bbc21d3995b243814f60716f",
     "company": "PhysicsX",
     "companyDomain": "physicsx.ai",
-    "role": "Principal Machine Learning Engineer (Aerospace Manufacturing)",
+    "role": "Senior/Principal Machine Learning Engineer (Aerospace Manufacturing)",
     "applyUrl": "https://go.landed.jobs/n887f8k",
     "location": "New York City, NY",
     "locations": [
@@ -4671,47 +4749,6 @@
     "median": 208000,
     "medianBasis": "level",
     "vsMedian": -2
-  },
-  {
-    "dedupeKey": "job:434cee6a-803f-4702-8466-4c5a78ba4141",
-    "companyId": "company_aa5613ac6586b79175c21e339097bb23",
-    "company": "Shield AI",
-    "companyDomain": "shield.ai",
-    "role": "Staff Software Engineer ML Platform (6244)",
-    "applyUrl": "https://go.landed.jobs/fef22ty",
-    "location": "San Diego, CA · San Mateo, CA",
-    "locations": [
-      "San Diego, CA",
-      "San Mateo, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "Python",
-      "distributed systems",
-      "Kubernetes"
-    ],
-    "posted": "2026-11-02T22:20:42.309Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$12.7B valuation",
-      "Series G"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 200000,
-      "max": 300000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 200000,
-      "max": 300000
-    },
-    "median": 253000,
-    "medianBasis": "level",
-    "vsMedian": -1
   },
   {
     "dedupeKey": "job:7ada2aed-7a44-4160-ba84-4ee7aede6a67",
@@ -5061,9 +5098,9 @@
       "min": 245500,
       "max": 388500
     },
-    "median": 238000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": 33
+    "vsMedian": 36
   },
   {
     "dedupeKey": "job:e599f16f-225e-4aba-85fe-ca661808dc1a",
@@ -5147,45 +5184,93 @@
     "vsMedian": 5
   },
   {
-    "dedupeKey": "job:ebba7a06-a404-44f2-b1b6-d08ec44a7c4e",
-    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
-    "company": "Perplexity",
-    "companyDomain": "perplexity.ai",
-    "role": "Member of Technical Staff (AI Software Engineer, Agent Engine)",
-    "applyUrl": "https://go.landed.jobs/em0o4c3",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:c201ea99-9a24-4ff4-9924-3318aad1bb80",
+    "companyId": "company_1a1f1762241d4347f22ce5defa6ebcc5",
+    "company": "Applied Materials",
+    "companyDomain": "appliedmaterials.com",
+    "role": "CV/ML/DL Algorithm Developer",
+    "applyUrl": "https://go.landed.jobs/zi5mcae",
+    "location": "Santa Clara, CA",
     "locations": [
-      "San Francisco, CA"
+      "Santa Clara, CA"
     ],
     "remote": "",
     "region": "us",
     "family": "ai_machine_learning",
-    "level": "staff",
+    "level": "senior",
     "skills": [
+      "computer vision",
       "Python",
-      "TypeScript",
-      "Go",
-      "Rust"
+      "PyTorch"
     ],
-    "posted": "2026-10-31T00:47:06.506Z",
+    "posted": "2026-11-02T00:00:00.000Z",
     "companyTier": "A",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$18B valuation"
+      "TrueUp Power 50",
+      "$403B valuation"
     ],
     "country": "US",
     "pay": {
-      "min": 250000,
-      "max": 405000,
+      "min": 184000,
+      "max": 253000,
       "currency": "USD"
     },
     "payUsd": {
-      "min": 250000,
-      "max": 405000
+      "min": 184000,
+      "max": 253000
     },
-    "median": 253000,
+    "median": 208000,
     "medianBasis": "level",
-    "vsMedian": 29
+    "vsMedian": 5
+  },
+  {
+    "dedupeKey": "job:37103b0d-d52f-4f31-ae36-d9baf337c892",
+    "companyId": "company_38c0d1a14d4a7fad161691eab805119e",
+    "company": "Samsara",
+    "companyDomain": "samsara.com",
+    "role": "Director, GTM AI Engineering",
+    "applyUrl": "https://go.landed.jobs/f83f8fh",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "director",
+    "skills": [
+      "Python or TypeScript",
+      "AWS",
+      "Databricks",
+      "LLM applications and agentic workflows",
+      "evaluation frameworks for LLM or agent systems",
+      "predictive modeling",
+      "Salesforce",
+      "Gong",
+      "Gainsight",
+      "Zendesk",
+      "Claude Code / Agent SDK",
+      "OpenAI Agents SDK"
+    ],
+    "posted": "2026-10-31T00:37:27.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$21.7B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 182000,
+      "max": 325000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 182000,
+      "max": 325000
+    },
+    "median": 273000,
+    "medianBasis": "level",
+    "vsMedian": -7
   },
   {
     "dedupeKey": "job:0c9a67a3-810a-4990-b9a8-751943d1e7f1",
@@ -5265,9 +5350,9 @@
       "min": 272000,
       "max": 336000
     },
-    "median": 202000,
+    "median": 200000,
     "medianBasis": "level",
-    "vsMedian": 50
+    "vsMedian": 52
   },
   {
     "dedupeKey": "job:6d698b1f-2e72-4f61-a10a-1c35279136ae",
@@ -5308,7 +5393,7 @@
       "min": 160000,
       "max": 180000
     },
-    "median": 184000,
+    "median": 185000,
     "medianBasis": "level",
     "vsMedian": -8
   },
@@ -5665,9 +5750,9 @@
       "min": 190800,
       "max": 262800
     },
-    "median": 135000,
+    "median": 138000,
     "medianBasis": "level",
-    "vsMedian": 68
+    "vsMedian": 64
   },
   {
     "dedupeKey": "job:13341271-ec18-4e6b-86cd-b1f66856b85a",
@@ -5879,9 +5964,9 @@
       "min": 135200,
       "max": 166400
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": -7
+    "vsMedian": -8
   },
   {
     "dedupeKey": "job:5dc74518-bc58-4f41-850c-0dd19ff323bd",
@@ -5961,9 +6046,9 @@
       "min": 140000,
       "max": 250000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 20
+    "vsMedian": 19
   },
   {
     "dedupeKey": "job:a8e7543a-6f54-4d7d-b71e-4d2430bcb90d",
@@ -6269,48 +6354,6 @@
     "vsMedian": -27
   },
   {
-    "dedupeKey": "job:2b196767-3c24-4169-8c91-8fcab2c76501",
-    "companyId": "company_232d07379862df60a068702fb4788114",
-    "company": "Defense Unicorns",
-    "companyDomain": "defenseunicorns.com",
-    "role": "Senior AI Software Engineer (RD271)",
-    "applyUrl": "https://go.landed.jobs/fjoz4ap",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLMs",
-      "AI agents",
-      "Kubernetes",
-      "containers",
-      "CI/CD"
-    ],
-    "posted": "2026-10-27T23:01:33.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Open Source 50",
-      "$1B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 148750,
-      "max": 201250,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 148750,
-      "max": 201250
-    },
-    "median": 208000,
-    "medianBasis": "level",
-    "vsMedian": -16
-  },
-  {
     "dedupeKey": "job:a6dd01e6-5882-46ca-b5b2-c0043801f827",
     "companyId": "company_37ac329a16ecef19c58b6ed06caad46f",
     "company": "Inworld AI",
@@ -6591,9 +6634,9 @@
       "min": 215900,
       "max": 287800
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 55
+    "vsMedian": 54
   },
   {
     "dedupeKey": "job:25895c49-4a12-40e7-b4db-14019fa8661f",
@@ -6752,7 +6795,7 @@
       "min": 130000,
       "max": 190000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
     "vsMedian": -2
   },
@@ -6843,49 +6886,6 @@
     "median": 253000,
     "medianBasis": "level",
     "vsMedian": 9
-  },
-  {
-    "dedupeKey": "job:87001733-fdd7-4ae5-8e9e-cf9c2e94b89f",
-    "companyId": "company_aa5613ac6586b79175c21e339097bb23",
-    "company": "Shield AI",
-    "companyDomain": "shield.ai",
-    "role": "Senior Staff Operational Analyst - Ranger (R6385)",
-    "applyUrl": "https://go.landed.jobs/2e6wn5x",
-    "location": "Seattle, WA",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "staff",
-    "skills": [
-      "modeling & simulation (M&S)",
-      "military operations research",
-      "force-on-force analysis",
-      "CONOPS development",
-      "military campaign modeling",
-      "AI-driven decision-making algorithms"
-    ],
-    "posted": "2026-10-23T21:05:23.442Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$12.7B valuation",
-      "Series G"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 225000,
-      "max": 340000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 225000,
-      "max": 340000
-    },
-    "median": 202000,
-    "medianBasis": "level",
-    "vsMedian": 40
   },
   {
     "dedupeKey": "job:a8a59f05-5cd4-459f-a307-1bdec8ec9bee",
@@ -7101,9 +7101,9 @@
       "min": 230000,
       "max": 350000
     },
-    "median": 238000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": 22
+    "vsMedian": 24
   },
   {
     "dedupeKey": "job:bd66f62e-68ef-45f2-9cc9-3e263b4ea551",
@@ -7318,9 +7318,9 @@
       "min": 101000,
       "max": 126000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": -30
+    "vsMedian": -31
   },
   {
     "dedupeKey": "job:7d6458ff-eee9-4a27-b27a-ff5fff6e4d91",
@@ -7363,9 +7363,9 @@
       "min": 136000,
       "max": 170000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": -6
+    "vsMedian": -7
   },
   {
     "dedupeKey": "job:2948f4b6-24e6-44af-bd57-172789f07cc0",
@@ -7500,52 +7500,6 @@
     "median": 218000,
     "medianBasis": "role",
     "vsMedian": 36
-  },
-  {
-    "dedupeKey": "job:cc864575-8c21-4fb4-a0c6-b36c086897e1",
-    "companyId": "company_496a9a7de0a1eb537f6db5d919ea81a0",
-    "company": "Intel",
-    "companyDomain": "intel.com",
-    "role": "Senior AI Systems Architect/Researcher",
-    "applyUrl": "https://go.landed.jobs/k8r97rs",
-    "location": "Hillsboro, OR +2",
-    "locations": [
-      "Hillsboro, OR",
-      "Folsom, CA",
-      "Santa Clara, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "computer architecture and system-level design",
-      "networking, interconnect, or memory subsystems",
-      "AI serving and training workloads",
-      "KV-cache transfer",
-      "disaggregated prefill/decode",
-      "model and tensor parallelism",
-      "communication collectives"
-    ],
-    "posted": "2026-10-21T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$455B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 195200,
-      "max": 275580,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 195200,
-      "max": 275580
-    },
-    "median": 208000,
-    "medianBasis": "level",
-    "vsMedian": 13
   },
   {
     "dedupeKey": "job:3858ad03-98b4-4071-a51a-1844c4cecfbd",
@@ -7827,9 +7781,9 @@
       "min": 131285,
       "max": 190108
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": -1
+    "vsMedian": -2
   },
   {
     "dedupeKey": "job:9289b8aa-0f94-4699-9aa9-b4a0c5b16dd7",
@@ -7926,7 +7880,7 @@
       "min": 95000,
       "max": 120000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
     "vsMedian": -34
   },
@@ -8107,9 +8061,9 @@
       "min": 150000,
       "max": 250000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": 18
+    "vsMedian": 17
   },
   {
     "dedupeKey": "job:2b71cfc0-e9a5-49ea-b3dd-1d161c48d7f3",
@@ -8156,126 +8110,386 @@
     "vsMedian": -8
   },
   {
-    "dedupeKey": "job:b1286083-a8eb-4122-a0da-a02d9965c599",
-    "companyId": "company_c9cdffe855fbf98ef02dc07d9646ea98",
-    "company": "Glean",
-    "companyDomain": "glean.com",
-    "role": "Machine Learning Engineer, Enterprise Brain",
-    "applyUrl": "https://go.landed.jobs/rc0pwlc",
-    "location": "Mountain View, CA",
+    "dedupeKey": "job:3206aea6-f770-4c62-b416-7f59acca3bf8",
+    "companyId": "company_77def3268f5a6166cd4b7161af017d33",
+    "company": "Natera",
+    "companyDomain": "natera.com",
+    "role": "Research Associate 2",
+    "applyUrl": "https://go.landed.jobs/dtpwukb",
+    "location": "Boulder, CO",
     "locations": [
-      "Mountain View, CA"
+      "Boulder, CO"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLM",
-      "AI agents"
-    ],
-    "posted": "2026-10-16T23:10:25.000Z",
-    "companyTier": "A",
+    "family": "research_science",
+    "level": "mid",
+    "skills": [],
+    "posted": "2026-11-16T23:51:30.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$7.2B valuation"
+      "$38.4B valuation",
+      "Public"
     ],
     "country": "US",
     "pay": {
-      "min": 200000,
-      "max": 280000,
+      "min": 74800,
+      "max": 89000,
       "currency": "USD"
     },
     "payUsd": {
-      "min": 200000,
-      "max": 280000
+      "min": 74800,
+      "max": 89000
     },
-    "median": 208000,
+    "median": 138000,
     "medianBasis": "level",
-    "vsMedian": 15
+    "vsMedian": -41
   },
   {
-    "dedupeKey": "job:2f3c658e-4446-438c-9b1c-cc119df06340",
-    "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
-    "company": "Together AI",
-    "companyDomain": "together.ai",
-    "role": "Research Intern, Frontier Speculative Decoding (Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/9ntec0i",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:0219b077-803f-49f5-b664-01b1d56ea4cd",
+    "companyId": "company_65dc592b9569a8a2463ae6163414b108",
+    "company": "Iovance Biotherapeutics",
+    "companyDomain": "iovance.com",
+    "role": "Vice President, Clinical Development",
+    "applyUrl": "https://go.landed.jobs/om8cra0",
+    "location": "🌐 Remote (US)",
     "locations": [
-      "San Francisco, CA"
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "research_science",
+    "level": "vp",
+    "skills": [],
+    "posted": "2026-11-16T21:40:10.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.2B valuation",
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 375000,
+      "max": 400000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 375000,
+      "max": 400000
+    },
+    "median": 359000,
+    "medianBasis": "level",
+    "vsMedian": 8
+  },
+  {
+    "dedupeKey": "job:404e0bfb-37e9-4d01-b173-d7f98aca4f0f",
+    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
+    "company": "AbbVie",
+    "companyDomain": "abbvie.com",
+    "role": "Sr Medical Director, Oncology Clinical Development (Solid Tumors)",
+    "applyUrl": "https://go.landed.jobs/lo5gcmb",
+    "location": "Florham Park, NJ",
+    "locations": [
+      "Florham Park, NJ"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "speculative decoding",
-      "knowledge distillation",
-      "distributed training frameworks",
-      "Megatron-LM",
-      "FSDP",
-      "Mixture-of-Experts",
-      "hybrid attention",
-      "reinforcement learning"
-    ],
-    "posted": "2026-10-16T22:48:51.000Z",
-    "companyTier": "A",
+    "level": "director",
+    "skills": [],
+    "posted": "2026-11-16T21:27:32.394Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$8.3B valuation"
+      "Public"
     ],
     "country": "US",
     "pay": {
-      "min": 120640,
-      "max": 145600,
+      "min": 192500,
+      "max": 327000,
       "currency": "USD"
     },
     "payUsd": {
-      "min": 120640,
-      "max": 145600
+      "min": 192500,
+      "max": 327000
     },
-    "median": 81000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": 64
+    "vsMedian": 11
   },
   {
-    "dedupeKey": "job:d17feb7b-4851-4645-96cb-a48fd2eb3828",
-    "companyId": "company_ff5ae2fb4ebddbaa9587bde5ffe3c443",
-    "company": "Coinbase",
-    "companyDomain": "coinbase.com",
-    "role": "Senior Machine Learning Engineer, CX",
-    "applyUrl": "https://go.landed.jobs/arszijf",
-    "location": "US",
+    "dedupeKey": "job:0293241a-1654-4f49-a815-9ae8865fb20e",
+    "companyId": "company_d0e5eb86968dc40248fc2e540a10fd4b",
+    "company": "Kin",
+    "companyDomain": "kin.com",
+    "role": "Senior Analyst, Attribute Analytics (Imagery & Property Data)",
+    "applyUrl": "https://go.landed.jobs/lt5ozgq",
+    "location": "🌐 Remote (Canada, US)",
     "locations": [
       "US"
     ],
-    "remote": "",
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "SQL",
+      "computer vision"
+    ],
+    "posted": "2026-11-16T19:17:16.178Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2B valuation",
+      "Series E"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 119774,
+      "max": 131955,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 119774,
+      "max": 131955
+    },
+    "median": 208000,
+    "medianBasis": "level",
+    "vsMedian": -39
+  },
+  {
+    "dedupeKey": "job:74bfa2a2-a430-4dc1-abd0-f5aceae4d9ea",
+    "companyId": "company_f69d1e80896d559123a9ab4f6872d351",
+    "company": "Vectra AI",
+    "companyDomain": "vectra.ai",
+    "role": "Senior Data Scientist",
+    "applyUrl": "https://go.landed.jobs/d3iqjnn",
+    "location": "Boston, MA",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "hybrid",
     "region": "us",
     "family": "ai_machine_learning",
     "level": "senior",
     "skills": [
-      "LLM"
+      "Python",
+      "AWS",
+      "Azure",
+      "SQL",
+      "C++"
     ],
-    "posted": "2026-10-16T21:53:42.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T19:11:48.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Crypto 50",
-      "$38.5B valuation"
+      "$1.2B valuation",
+      "Series F"
     ],
     "country": "US",
     "pay": {
-      "min": 191250,
-      "max": 225000,
+      "min": 181000,
+      "max": 212900,
       "currency": "USD"
     },
     "payUsd": {
-      "min": 191250,
-      "max": 225000
+      "min": 181000,
+      "max": 212900
     },
     "median": 208000,
     "medianBasis": "level",
-    "vsMedian": 0
+    "vsMedian": -5
+  },
+  {
+    "dedupeKey": "job:fd8cf214-6c0e-4ed7-ac3f-7fea0ab0f1d2",
+    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
+    "company": "AbbVie",
+    "companyDomain": "abbvie.com",
+    "role": "Senior Research Statistician - Statistical Innovation (Hybrid)",
+    "applyUrl": "https://go.landed.jobs/jy36zwo",
+    "location": "Florham Park, NJ",
+    "locations": [
+      "Florham Park, NJ"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-11-16T18:33:49.461Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 96500,
+      "max": 183500,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 96500,
+      "max": 183500
+    },
+    "median": 164000,
+    "medianBasis": "level",
+    "vsMedian": -15
+  },
+  {
+    "dedupeKey": "job:f48c3744-55d4-404f-9f5b-3a2f7454544e",
+    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
+    "company": "AbbVie",
+    "companyDomain": "abbvie.com",
+    "role": "Associate Director, HEOR Strategy, Specialty",
+    "applyUrl": "https://go.landed.jobs/100de6f",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "director",
+    "skills": [],
+    "posted": "2026-11-16T18:11:32.884Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 141500,
+      "max": 268500,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 141500,
+      "max": 268500
+    },
+    "median": 233000,
+    "medianBasis": "level",
+    "vsMedian": -12
+  },
+  {
+    "dedupeKey": "job:1074a27e-5088-4219-9b6e-0fcbee80007f",
+    "companyId": "company_362c502e3f78ef3f97bb3f2c78b60bd2",
+    "company": "Metropolis Technologies",
+    "companyDomain": "metropolis.io",
+    "role": "Staff Machine Learning Engineer, Growth",
+    "applyUrl": "https://go.landed.jobs/r4e0zfv",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "staff",
+    "skills": [
+      "causal inference",
+      "Spark",
+      "Airflow",
+      "AWS",
+      "Python",
+      "SQL"
+    ],
+    "posted": "2026-11-16T17:13:40.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$5B valuation",
+      "Series D"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 220000,
+      "max": 260000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 220000,
+      "max": 260000
+    },
+    "median": 253000,
+    "medianBasis": "level",
+    "vsMedian": -5
+  },
+  {
+    "dedupeKey": "job:aa53021f-1849-4547-b9e1-151ebd3af1e1",
+    "companyId": "company_65dc592b9569a8a2463ae6163414b108",
+    "company": "Iovance Biotherapeutics",
+    "companyDomain": "iovance.com",
+    "role": "Director, AI Product Engineering",
+    "applyUrl": "https://go.landed.jobs/gon42te",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "director",
+    "skills": [
+      "LLM",
+      "observability",
+      "agentic systems",
+      "Databricks",
+      "AWS",
+      "CI/CD"
+    ],
+    "posted": "2026-11-16T14:22:37.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.2B valuation",
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 270000,
+      "max": 290000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 270000,
+      "max": 290000
+    },
+    "median": 273000,
+    "medianBasis": "level",
+    "vsMedian": 3
+  },
+  {
+    "dedupeKey": "job:a753d303-b8d3-4117-b6eb-7766d396dc75",
+    "companyId": "company_1c981def6d6ed2f1d4b7e4f4f61350c2",
+    "company": "AECOM",
+    "companyDomain": "aecom.com",
+    "role": "Senior Biologist",
+    "applyUrl": "https://go.landed.jobs/nlyhuh2",
+    "location": "Honolulu, HI",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-15T21:12:40.409Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 100000,
+      "max": 135000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 100000,
+      "max": 135000
+    },
+    "median": 164000,
+    "medianBasis": "level",
+    "vsMedian": -28
   },
   {
     "dedupeKey": "job:237799f6-da4b-4859-80f9-ac0f9329a54d",
@@ -8316,41 +8530,6 @@
     "vsMedian": -17
   },
   {
-    "dedupeKey": "job:e40f6a6a-cf06-48dc-b412-67ddd17c26c0",
-    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
-    "company": "AbbVie",
-    "companyDomain": "abbvie.com",
-    "role": "Scientist l, Biologics Analytical R&D",
-    "applyUrl": "https://go.landed.jobs/tu2f8gc",
-    "location": "Irvine, CA",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T21:34:26.015Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 75000,
-      "max": 142500,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 75000,
-      "max": 142500
-    },
-    "median": 163000,
-    "medianBasis": "level",
-    "vsMedian": -33
-  },
-  {
     "dedupeKey": "job:d34b0e01-8288-4c4e-a994-d94e00ba1e15",
     "companyId": "company_76a48ee080e75768809e9ed81cac7bb5",
     "company": "Axle",
@@ -8382,7 +8561,7 @@
       "min": 85000,
       "max": 95000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
     "vsMedian": -47
   },
@@ -8418,9 +8597,9 @@
       "min": 149603,
       "max": 254317
     },
-    "median": 184000,
+    "median": 185000,
     "medianBasis": "level",
-    "vsMedian": 10
+    "vsMedian": 9
   },
   {
     "dedupeKey": "job:ecd84acd-c1fb-459e-b0da-83ced0f6f3a4",
@@ -8453,44 +8632,9 @@
       "min": 107359,
       "max": 182510
     },
-    "median": 184000,
+    "median": 185000,
     "medianBasis": "level",
-    "vsMedian": -21
-  },
-  {
-    "dedupeKey": "job:d7e96539-d783-4ffd-9ba4-544340697880",
-    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
-    "company": "AbbVie",
-    "companyDomain": "abbvie.com",
-    "role": "Sr Scientist I, Chemistry",
-    "applyUrl": "https://go.landed.jobs/vir7a6i",
-    "location": "North Chicago, IL",
-    "locations": [
-      "North Chicago, IL"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T19:23:02.165Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 96500,
-      "max": 183500,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 96500,
-      "max": 183500
-    },
-    "median": 163000,
-    "medianBasis": "level",
-    "vsMedian": -14
+    "vsMedian": -22
   },
   {
     "dedupeKey": "job:3af19b3b-e070-4e86-93d7-144fa3a92257",
@@ -8530,9 +8674,9 @@
       "min": 198000,
       "max": 340000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": 58
+    "vsMedian": 57
   },
   {
     "dedupeKey": "job:dbf99196-b2f2-4e28-8f2f-5a627598b38d",
@@ -8605,44 +8749,9 @@
       "min": 110500,
       "max": 149500
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
     "vsMedian": -24
-  },
-  {
-    "dedupeKey": "job:225672e6-7bb7-40e7-97d5-8aa2e1780a61",
-    "companyId": "company_7179c7d5d3b27af7565b05dc11f577ac",
-    "company": "AbbVie",
-    "companyDomain": "abbvie.com",
-    "role": "Manager, Clinical Data & Reporting Standards - SDTM Programming (Hybrid)",
-    "applyUrl": "https://go.landed.jobs/uolt2mz",
-    "location": "Florham Park, NJ",
-    "locations": [
-      "Florham Park, NJ"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T16:33:19.922Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 109500,
-      "max": 208500,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 109500,
-      "max": 208500
-    },
-    "median": 163000,
-    "medianBasis": "level",
-    "vsMedian": -2
   },
   {
     "dedupeKey": "job:49fb147d-d9cf-4507-a99b-df6ea4c7b251",
@@ -8750,9 +8859,9 @@
       "min": 110000,
       "max": 130000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": -29
+    "vsMedian": -30
   },
   {
     "dedupeKey": "job:173cb531-cc67-4b41-929d-c11da9656441",
@@ -8797,6 +8906,41 @@
     "median": 208000,
     "medianBasis": "level",
     "vsMedian": -12
+  },
+  {
+    "dedupeKey": "job:299201ef-cdc3-432f-9cbc-43bcfe7526dd",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Advanced Concepts Systems Engineer",
+    "applyUrl": "https://go.landed.jobs/q9gbbn1",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 86800,
+      "max": 198000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 86800,
+      "max": 198000
+    },
+    "median": 171000,
+    "medianBasis": "role",
+    "vsMedian": -17
   },
   {
     "dedupeKey": "job:2ebccba2-e67d-48ec-aa55-f7cb411aa772",
@@ -8866,6 +9010,41 @@
     "vsMedian": 20
   },
   {
+    "dedupeKey": "job:5093eaa1-09d2-4812-b2c7-abb1c2b01e99",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Civil & Industrial Engineer Expert",
+    "applyUrl": "https://go.landed.jobs/dzegigy",
+    "location": "Reston, VA",
+    "locations": [
+      "Reston, VA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 62000,
+      "max": 141000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 62000,
+      "max": 141000
+    },
+    "median": 200000,
+    "medianBasis": "level",
+    "vsMedian": -49
+  },
+  {
     "dedupeKey": "job:53f2e1ec-a04a-4ee2-b308-726a156becb8",
     "companyId": "company_5def14c5ef002f14c05286870f7061c4",
     "company": "Moderna",
@@ -8897,9 +9076,44 @@
       "min": 74000,
       "max": 118400
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": -43
+    "vsMedian": -44
+  },
+  {
+    "dedupeKey": "job:899ed311-18d8-44df-b7cc-59801588d25c",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Warfighting Analyst, Junior",
+    "applyUrl": "https://go.landed.jobs/7qtchsx",
+    "location": "McLean, VA",
+    "locations": [
+      "McLean, VA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "entry",
+    "skills": [],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 62000,
+      "max": 141000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 62000,
+      "max": 141000
+    },
+    "median": 109000,
+    "medianBasis": "level",
+    "vsMedian": -7
   },
   {
     "dedupeKey": "job:8a6419cb-6fbc-46ea-9d65-d8923405b237",
@@ -9069,9 +9283,9 @@
       "min": 139300,
       "max": 282000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 29
+    "vsMedian": 28
   },
   {
     "dedupeKey": "job:d90e01f3-202d-4674-8e1d-971404118b1d",
@@ -9113,6 +9327,43 @@
     "vsMedian": -14
   },
   {
+    "dedupeKey": "job:e09a331c-79a6-48c5-aace-24d717651427",
+    "companyId": "company_b8a47c7e48c41f0470223b18889960d0",
+    "company": "Bms",
+    "companyDomain": "bms.com",
+    "role": "Senior Manager, AI Engineer/ Solutions & Engineering",
+    "applyUrl": "https://go.landed.jobs/hond6g7",
+    "location": "Princeton, NJ",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "LLMs"
+    ],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 153770,
+      "max": 186327,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 153770,
+      "max": 186327
+    },
+    "median": 208000,
+    "medianBasis": "level",
+    "vsMedian": -18
+  },
+  {
     "dedupeKey": "job:64f8b92e-f8f7-4264-bf74-d81ac9f941c4",
     "companyId": "company_947f2f9d81ff398a2e659914a60d5254",
     "company": "InMobi",
@@ -9151,6 +9402,43 @@
     "median": 195000,
     "medianBasis": "level",
     "vsMedian": 3
+  },
+  {
+    "dedupeKey": "job:4a839829-deb0-45fc-a6d7-0c1e187affa6",
+    "companyId": "company_129cca47439656d5941ca8482bc4439c",
+    "company": "Altos Labs",
+    "companyDomain": "altoslabs.com",
+    "role": "Director / Senior Director, Toxicology",
+    "applyUrl": "https://go.landed.jobs/jtj8njw",
+    "location": "San Francisco, CA +2",
+    "locations": [
+      "San Francisco, CA",
+      "San Diego, CA",
+      "Redwood City, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "director",
+    "skills": [],
+    "posted": "2026-11-12T21:54:06.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 264300,
+      "max": 368900,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 264300,
+      "max": 368900
+    },
+    "median": 233000,
+    "medianBasis": "level",
+    "vsMedian": 36
   },
   {
     "dedupeKey": "job:9b08595d-2922-4387-8610-e8021e3b9aa9",
@@ -9231,6 +9519,52 @@
     "vsMedian": -12
   },
   {
+    "dedupeKey": "job:19b0e9b9-975d-428a-8757-bf9b017fec24",
+    "companyId": "company_a1827d7df378c8cdf636622637546411",
+    "company": "Simple AI",
+    "companyDomain": "usesimple.ai",
+    "role": "Forward Deployed Engineer",
+    "applyUrl": "https://go.landed.jobs/3zaxbkl",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "entry",
+    "skills": [
+      "AI agents",
+      "LLM",
+      "prompt engineering",
+      "Python",
+      "TypeScript",
+      "Ruby",
+      "React",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "posted": "2026-11-12T10:16:04.060Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC S24",
+      "Seed"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 120000,
+      "max": 200000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 120000,
+      "max": 200000
+    },
+    "median": 160000,
+    "medianBasis": "level",
+    "vsMedian": 0
+  },
+  {
     "dedupeKey": "job:0274bfdd-3cf2-4aa5-90a7-e5e43ea9c86d",
     "companyId": "company_9a07434be71a9928b313a764639073c9",
     "company": "Hewlett Packard Enterprise",
@@ -9265,46 +9599,6 @@
     "median": 273000,
     "medianBasis": "level",
     "vsMedian": 18
-  },
-  {
-    "dedupeKey": "job:092b05a5-5fe5-4da4-8ee2-c1259d30b43e",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Autonomy SME, Lead",
-    "applyUrl": "https://go.landed.jobs/g4ykpp7",
-    "location": "Washington, D.C., DC",
-    "locations": [
-      "Washington, D.C., DC"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "computer vision",
-      "Python",
-      "PyTorch",
-      "TensorFlow"
-    ],
-    "posted": "2026-11-12T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 112800,
-      "max": 257000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 112800,
-      "max": 257000
-    },
-    "median": 208000,
-    "medianBasis": "level",
-    "vsMedian": -11
   },
   {
     "dedupeKey": "job:1cac2f13-58d4-4ade-a5a4-fca10b43263e",
@@ -9564,55 +9858,6 @@
     "vsMedian": -27
   },
   {
-    "dedupeKey": "job:4a157077-67ef-4d58-b1ad-7dfa1cd2c732",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "AI/ML Engineer",
-    "applyUrl": "https://go.landed.jobs/p8alshh",
-    "location": "McLean, VA +2",
-    "locations": [
-      "McLean, VA",
-      "San Diego, CA",
-      "El Segundo, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "entry",
-    "skills": [
-      "LLMs",
-      "agentic workflows",
-      "computer vision",
-      "PyTorch",
-      "TensorFlow",
-      "vLLM",
-      "AWS",
-      "Azure",
-      "Kubernetes",
-      "Docker",
-      "Kafka"
-    ],
-    "posted": "2026-11-12T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 55200,
-      "max": 126000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 55200,
-      "max": 126000
-    },
-    "median": 163000,
-    "medianBasis": "level",
-    "vsMedian": -44
-  },
-  {
     "dedupeKey": "job:5f171c68-4a91-4214-8d9c-0d3e4b4de624",
     "companyId": "company_9a07434be71a9928b313a764639073c9",
     "company": "Hewlett Packard Enterprise",
@@ -9647,55 +9892,6 @@
     "median": 260000,
     "medianBasis": "level",
     "vsMedian": 17
-  },
-  {
-    "dedupeKey": "job:6c4ac4c0-dd0b-4134-b813-db6fbb081951",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "AI/ML Engineer",
-    "applyUrl": "https://go.landed.jobs/z7ilcjf",
-    "location": "McLean, VA +2",
-    "locations": [
-      "McLean, VA",
-      "San Diego, CA",
-      "El Segundo, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLMs",
-      "agentic workflows",
-      "computer vision",
-      "PyTorch",
-      "TensorFlow",
-      "vLLM",
-      "AWS",
-      "Azure",
-      "Kubernetes",
-      "Docker",
-      "Kafka"
-    ],
-    "posted": "2026-11-12T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 99000,
-      "max": 225000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 99000,
-      "max": 225000
-    },
-    "median": 208000,
-    "medianBasis": "level",
-    "vsMedian": -22
   },
   {
     "dedupeKey": "job:9fcb3868-d81e-42c2-9121-7df6ba759f67",
@@ -9976,9 +10172,9 @@
       "min": 141500,
       "max": 196000
     },
-    "median": 163000,
+    "median": 160000,
     "medianBasis": "level",
-    "vsMedian": 4
+    "vsMedian": 5
   },
   {
     "dedupeKey": "job:07b7c5ac-2781-4113-9b50-6d1e9c55372d",
@@ -10011,9 +10207,9 @@
       "min": 110000,
       "max": 130000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": -26
+    "vsMedian": -27
   },
   {
     "dedupeKey": "job:dc439fdf-a2fb-45b1-a9ad-81c2b74c9f0e",
@@ -10048,9 +10244,9 @@
       "min": 140000,
       "max": 160000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": -8
+    "vsMedian": -9
   },
   {
     "dedupeKey": "job:d8ef4c5c-c173-4777-aab3-4e6cb1f64cb5",
@@ -10085,9 +10281,9 @@
       "min": 140000,
       "max": 160000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": -8
+    "vsMedian": -9
   },
   {
     "dedupeKey": "job:6c0d192b-5449-46f5-9c53-f4b360406c62",
@@ -10165,7 +10361,7 @@
       "min": 111000,
       "max": 180000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
     "vsMedian": -11
   },
@@ -10241,9 +10437,9 @@
       "min": 275000,
       "max": 340000
     },
-    "median": 238000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": 29
+    "vsMedian": 32
   },
   {
     "dedupeKey": "job:851b4e02-a5a4-4c1f-8520-58aa7b049a79",
@@ -10279,9 +10475,9 @@
       "min": 259400,
       "max": 324200
     },
-    "median": 238000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": 23
+    "vsMedian": 25
   },
   {
     "dedupeKey": "job:3076a60e-52a3-4d7f-8489-84e91d1ff540",
@@ -10350,7 +10546,7 @@
       "min": 146400,
       "max": 219600
     },
-    "median": 184000,
+    "median": 185000,
     "medianBasis": "level",
     "vsMedian": -1
   },
@@ -10423,7 +10619,7 @@
       "min": 92719.79,
       "max": 105363.4
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
     "vsMedian": -42
   },
@@ -10462,49 +10658,9 @@
       "min": 180000,
       "max": 197000
     },
-    "median": 238000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": -21
-  },
-  {
-    "dedupeKey": "job:6eb809a7-4f61-471e-b8bf-1401d2207097",
-    "companyId": "company_77def3268f5a6166cd4b7161af017d33",
-    "company": "Natera",
-    "companyDomain": "natera.com",
-    "role": "Staff Scientist, Machine Learning (Genomics)",
-    "applyUrl": "https://go.landed.jobs/ytnecaz",
-    "location": "San Carlos, CA · US",
-    "locations": [
-      "San Carlos, CA",
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "staff",
-    "skills": [
-      "SQL",
-      "Docker"
-    ],
-    "posted": "2026-11-10T20:36:40.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$38.4B valuation",
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 170600,
-      "max": 213300,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 170600,
-      "max": 213300
-    },
-    "median": 202000,
-    "medianBasis": "level",
-    "vsMedian": -5
+    "vsMedian": -19
   },
   {
     "dedupeKey": "job:dff56289-1401-4a83-8051-e01a57026e73",
@@ -10668,41 +10824,6 @@
     "vsMedian": -17
   },
   {
-    "dedupeKey": "job:16ae3f5b-0b99-4438-b2a9-a439c32410ec",
-    "companyId": "company_1c981def6d6ed2f1d4b7e4f4f61350c2",
-    "company": "AECOM",
-    "companyDomain": "aecom.com",
-    "role": "Biologist II",
-    "applyUrl": "https://go.landed.jobs/9l1o82i",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-11-10T16:28:48.025Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 82000,
-      "max": 87000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 82000,
-      "max": 87000
-    },
-    "median": 135000,
-    "medianBasis": "level",
-    "vsMedian": -37
-  },
-  {
     "dedupeKey": "job:972fcd1c-3068-4fb7-b199-e07d3651a5fd",
     "companyId": "company_539d428ce68a20a701c7d3d81bdab806",
     "company": "Culture Amp",
@@ -10735,9 +10856,9 @@
       "min": 140000,
       "max": 160000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": -8
+    "vsMedian": -9
   },
   {
     "dedupeKey": "job:00358b49-633a-4281-93e4-eb4c06f41afb",
@@ -10777,9 +10898,9 @@
       "min": 220000,
       "max": 357000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 77
+    "vsMedian": 76
   },
   {
     "dedupeKey": "job:484238b9-6ba2-45cf-a4a8-d531c8780009",
@@ -10818,44 +10939,9 @@
       "min": 160000,
       "max": 250000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": 21
-  },
-  {
-    "dedupeKey": "job:4464b199-5d73-4fa4-94fc-3391b3735ca5",
-    "companyId": "company_0b0a2e208e003d9ffe3c5fae5c685c0c",
-    "company": "Medtronic",
-    "companyDomain": "medtronic.com",
-    "role": "Sr. Scientist",
-    "applyUrl": "https://go.landed.jobs/ger6mfp",
-    "location": "Mounds View, MN",
-    "locations": [
-      "Mounds View, MN"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-10T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 112800,
-      "max": 169200,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 112800,
-      "max": 169200
-    },
-    "median": 163000,
-    "medianBasis": "level",
-    "vsMedian": -13
+    "vsMedian": 20
   },
   {
     "dedupeKey": "job:65638350-cf0c-464b-b2b4-a6a51dde8c5e",
@@ -10969,9 +11055,9 @@
       "min": 80000,
       "max": 120000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
-    "vsMedian": -41
+    "vsMedian": -42
   },
   {
     "dedupeKey": "job:f8664996-1f6f-4b4f-9f47-89216c9286f6",
@@ -11046,7 +11132,7 @@
       "min": 160000,
       "max": 200000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
     "vsMedian": 10
   },
@@ -11164,9 +11250,9 @@
       "min": 147000,
       "max": 210000
     },
-    "median": 238000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": -25
+    "vsMedian": -23
   },
   {
     "dedupeKey": "job:2aa80022-1501-4765-966b-07a3bee8058d",
@@ -11241,9 +11327,9 @@
       "min": 210000,
       "max": 230000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 35
+    "vsMedian": 34
   },
   {
     "dedupeKey": "job:8d605ed5-56e6-4221-9e1b-1f384db69175",
@@ -11277,7 +11363,7 @@
       "min": 91000,
       "max": 94000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
     "vsMedian": -46
   },
@@ -11313,7 +11399,7 @@
       "min": 91000,
       "max": 94000
     },
-    "median": 170000,
+    "median": 171000,
     "medianBasis": "role",
     "vsMedian": -46
   },
@@ -11475,7 +11561,7 @@
       "min": 200000,
       "max": 350000
     },
-    "median": 184000,
+    "median": 185000,
     "medianBasis": "level",
     "vsMedian": 49
   },
@@ -11555,9 +11641,9 @@
       "min": 300000,
       "max": 400000
     },
-    "median": 202000,
+    "median": 200000,
     "medianBasis": "level",
-    "vsMedian": 73
+    "vsMedian": 75
   },
   {
     "dedupeKey": "job:104d1033-dd24-4b43-9189-026ca2bc5cbe",
@@ -11593,7 +11679,7 @@
       "min": 83428.8,
       "max": 132475.2
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
     "vsMedian": -34
   },
@@ -11636,9 +11722,9 @@
       "min": 138000,
       "max": 210000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 7
+    "vsMedian": 6
   },
   {
     "dedupeKey": "job:173983a4-23e2-4f5a-8756-8194ef38c790",
@@ -11767,9 +11853,9 @@
       "min": 85840,
       "max": 134125
     },
-    "median": 135000,
+    "median": 138000,
     "medianBasis": "level",
-    "vsMedian": -19
+    "vsMedian": -20
   },
   {
     "dedupeKey": "job:79d5880c-bcb6-4b2f-880a-fa0c1810d739",
@@ -11803,9 +11889,9 @@
       "min": 85840,
       "max": 134125
     },
-    "median": 135000,
+    "median": 138000,
     "medianBasis": "level",
-    "vsMedian": -19
+    "vsMedian": -20
   },
   {
     "dedupeKey": "job:8c6c1c0d-6715-4ac2-875a-982c4d862761",
@@ -11931,9 +12017,9 @@
       "min": 190000,
       "max": 300000
     },
-    "median": 238000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": 3
+    "vsMedian": 5
   },
   {
     "dedupeKey": "job:3edf03bf-c3d9-4188-a987-cb69dee3c83e",
@@ -12101,9 +12187,9 @@
       "min": 175000,
       "max": 220000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 21
+    "vsMedian": 20
   },
   {
     "dedupeKey": "job:19c12fbe-42b5-47a3-92a9-bbcfc3806f4f",
@@ -12146,9 +12232,9 @@
       "min": 160000,
       "max": 240000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 23
+    "vsMedian": 22
   },
   {
     "dedupeKey": "job:f56cd2e9-ba14-4325-a3dd-2d673333f85f",
@@ -12193,9 +12279,9 @@
       "min": 188000,
       "max": 282000
     },
-    "median": 163000,
+    "median": 164000,
     "medianBasis": "level",
-    "vsMedian": 44
+    "vsMedian": 43
   },
   {
     "dedupeKey": "job:4448295c-c5cc-43cd-b9cd-8367f6205d62",
@@ -12234,9 +12320,9 @@
       "min": 254530,
       "max": 308434
     },
-    "median": 238000,
+    "median": 233000,
     "medianBasis": "level",
-    "vsMedian": 18
+    "vsMedian": 21
   },
   {
     "dedupeKey": "job:72b2870c-db8a-47d3-ba4b-9bd5546eb5a9",
@@ -12279,134 +12365,5 @@
     "median": 208000,
     "medianBasis": "level",
     "vsMedian": 14
-  },
-  {
-    "dedupeKey": "job:b08af6de-5b4d-4bcd-a7f4-604c1c908d66",
-    "companyId": "company_c0df3da73ab6a4f316b6352d5ded4778",
-    "company": "HP",
-    "companyDomain": "hp.com",
-    "role": "Research and Development Ink Chemist",
-    "applyUrl": "https://go.landed.jobs/crokph2",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "design and formulation of ink, dispersion, and related chemical technologies",
-      "formulation science",
-      "process development",
-      "scale-up",
-      "technical problem solving",
-      "cross-functional leadership",
-      "Wet chemistry or ink formulation experience",
-      "Programming skills"
-    ],
-    "posted": "2026-11-05T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$24.9B valuation",
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 114600,
-      "max": 170000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 114600,
-      "max": 170000
-    },
-    "median": 170000,
-    "medianBasis": "role",
-    "vsMedian": -16
-  },
-  {
-    "dedupeKey": "job:630471d1-765c-4d5f-834b-646a6e20ca24",
-    "companyId": "company_80fe434ab57dce0ecab0595bb93c895f",
-    "company": "Navan",
-    "companyDomain": "navan.com",
-    "role": "AI Architect",
-    "applyUrl": "https://go.landed.jobs/u16g747",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "AI architecture",
-      "retrieval-augmented systems",
-      "agents",
-      "evaluation methods",
-      "observability",
-      "backend software development"
-    ],
-    "posted": "2026-11-04T21:59:37.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$6.8B valuation",
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 129600,
-      "max": 288000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 129600,
-      "max": 288000
-    },
-    "median": 208000,
-    "medianBasis": "level",
-    "vsMedian": 0
-  },
-  {
-    "dedupeKey": "job:51ae4bbe-619a-4e52-8b02-9cab3be694f4",
-    "companyId": "company_d039aac4becf07c3b0e13f4430f8dcd3",
-    "company": "ZipRecruiter",
-    "companyDomain": "ziprecruiter.com",
-    "role": "Engineering Manager, Machine Learning, Ranking",
-    "applyUrl": "https://go.landed.jobs/n5t89q6",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Santa Monica, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "ML algorithms, techniques, and best practices",
-      "CS fundamentals (data structures, algorithms) and coding skills",
-      "Embeddings and/or vectors"
-    ],
-    "posted": "2026-11-04T17:09:30.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$317M valuation",
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 200000,
-      "max": 265000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 200000,
-      "max": 265000
-    },
-    "median": 208000,
-    "medianBasis": "level",
-    "vsMedian": 12
   }
 ]
