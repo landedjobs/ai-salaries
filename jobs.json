@@ -1,5 +1,271 @@
 [
   {
+    "dedupeKey": "job:6ac7af4b-431e-45ce-babe-3e7ddb5cb902",
+    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
+    "company": "OpenAI",
+    "companyDomain": "openai.com",
+    "role": "Research Engineer / Research Scientist, Health",
+    "applyUrl": "https://go.landed.jobs/1hwpz0j",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-22T17:20:10.700Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$852B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 380000,
+      "max": 500000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 380000,
+      "max": 500000
+    },
+    "median": 171000,
+    "medianBasis": "role",
+    "vsMedian": 157
+  },
+  {
+    "dedupeKey": "job:690d638c-f052-41fb-928f-8476eb6425ee",
+    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
+    "company": "OpenAI",
+    "companyDomain": "openai.com",
+    "role": "Research Engineer / Research Scientist, Human Flourishing",
+    "applyUrl": "https://go.landed.jobs/fm379nj",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "LLM"
+    ],
+    "posted": "2026-11-22T17:19:07.642Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$852B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 380000,
+      "max": 500000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 380000,
+      "max": 500000
+    },
+    "median": 171000,
+    "medianBasis": "role",
+    "vsMedian": 157
+  },
+  {
+    "dedupeKey": "job:e5b0aec0-1f89-4fdd-95e6-06e89036790f",
+    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
+    "company": "OpenAI",
+    "companyDomain": "openai.com",
+    "role": "Research Engineer / Research Scientist - Post Training, Memory",
+    "applyUrl": "https://go.landed.jobs/9nkri2p",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-22T17:17:35.967Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$852B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 380000,
+      "max": 500000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 380000,
+      "max": 500000
+    },
+    "median": 220000,
+    "medianBasis": "role",
+    "vsMedian": 100
+  },
+  {
+    "dedupeKey": "job:526f54c1-04e8-4e02-a047-92c4ec5926d9",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Creative AI Engineer",
+    "applyUrl": "https://go.landed.jobs/0cl2ktf",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "LLM",
+      "Figma"
+    ],
+    "posted": "2026-11-21T17:44:35.163Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 168400,
+      "max": 252600,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 168400,
+      "max": 252600
+    },
+    "median": 210000,
+    "medianBasis": "level",
+    "vsMedian": 0
+  },
+  {
+    "dedupeKey": "job:266101b6-df5a-4df5-8daa-b6e1d1a6e0e2",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Creative AI Engineer",
+    "applyUrl": "https://go.landed.jobs/5we4s9q",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "LLM",
+      "Figma"
+    ],
+    "posted": "2026-11-21T17:44:26.219Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 168400,
+      "max": 252600,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 168400,
+      "max": 252600
+    },
+    "median": 210000,
+    "medianBasis": "level",
+    "vsMedian": 0
+  },
+  {
+    "dedupeKey": "job:b759ce7c-9421-4e1d-8837-a1aa92cfb554",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Research Engineer, Finetuning",
+    "applyUrl": "https://go.landed.jobs/1z3uh7w",
+    "location": "San Francisco, CA +2",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY",
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "Python",
+      "fine-tuning",
+      "agentic systems"
+    ],
+    "posted": "2026-11-21T12:52:27.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 500000,
+      "max": 850000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 500000,
+      "max": 850000
+    },
+    "median": 220000,
+    "medianBasis": "role",
+    "vsMedian": 207
+  },
+  {
+    "dedupeKey": "job:6bd11397-c862-4e6b-b24c-594bb48ec7f3",
+    "companyId": "company_8fe9b30d92d73dc8ed58dcd22019720f",
+    "company": "Western Digital",
+    "companyDomain": "westerndigital.com",
+    "role": "Materials Research Engineer -- Principal Engineer",
+    "applyUrl": "https://go.landed.jobs/ax0t35k",
+    "location": "San Jose, CA",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "principal",
+    "skills": [],
+    "posted": "2026-11-21T00:31:57.961Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$188B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 157700,
+      "max": 210300,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 157700,
+      "max": 210300
+    },
+    "median": 184000,
+    "medianBasis": "level",
+    "vsMedian": 0
+  },
+  {
     "dedupeKey": "job:e7988c24-4dce-473e-9c82-dac4c51214c4",
     "companyId": "company_40236fcdd01d598493e44bb7dc8a46c2",
     "company": "Faire",
@@ -36,9 +302,9 @@
       "min": 211000,
       "max": 290500
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 20
+    "vsMedian": 19
   },
   {
     "dedupeKey": "job:8398aaec-cc7a-4a7d-aff9-1d93b0d7b73c",
@@ -74,9 +340,49 @@
       "min": 83000,
       "max": 222000
     },
-    "median": 238000,
+    "median": 236000,
     "medianBasis": "level",
-    "vsMedian": -36
+    "vsMedian": -35
+  },
+  {
+    "dedupeKey": "job:405928b5-7acc-429d-b960-e416c2bbffea",
+    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
+    "company": "SpaceX",
+    "companyDomain": "spacex.com",
+    "role": "Sr. Superintelligence (SI) Engineer, Special Programs - Top Secret Clearance",
+    "applyUrl": "https://go.landed.jobs/t97qgj5",
+    "location": "Hawthorne, CA +2",
+    "locations": [
+      "Hawthorne, CA",
+      "Palo Alto, CA",
+      "Washington, D.C., DC"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "fine-tuning"
+    ],
+    "posted": "2026-11-20T20:40:58.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$1.4T valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 220000,
+      "max": 350000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 220000,
+      "max": 350000
+    },
+    "median": 210000,
+    "medianBasis": "level",
+    "vsMedian": 36
   },
   {
     "dedupeKey": "job:f7b93c29-fd23-4f38-81d5-46fa43599f49",
@@ -114,37 +420,31 @@
       "min": 220000,
       "max": 350000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 36
   },
   {
-    "dedupeKey": "job:452eba66-1fc2-4b32-8ee6-afe16e73bf5d",
+    "dedupeKey": "job:aa697f6b-9fc3-4453-ade2-7fb579ddd189",
     "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
-    "role": "Principal Superintelligence (SI) Engineer, Special Programs",
-    "applyUrl": "https://go.landed.jobs/1hvi59d",
-    "location": "Washington, D.C., DC +2",
+    "role": "Sr. Superintelligence (SI) Engineer, Special Programs - Top Secret Clearance",
+    "applyUrl": "https://go.landed.jobs/7viusa7",
+    "location": "Palo Alto, CA +2",
     "locations": [
-      "Washington, D.C., DC",
+      "Palo Alto, CA",
       "Hawthorne, CA",
-      "Palo Alto, CA"
+      "Washington, D.C., DC"
     ],
     "remote": "",
     "region": "us",
     "family": "ai_machine_learning",
-    "level": "principal",
+    "level": "senior",
     "skills": [
-      "Python",
-      "large language models",
-      "agentic systems",
-      "AWS",
-      "Azure",
-      "Kubernetes",
-      "Docker"
+      "fine-tuning"
     ],
-    "posted": "2026-11-20T20:29:14.000Z",
+    "posted": "2026-11-20T20:40:55.000Z",
     "companyTier": "A",
     "companyBadges": [
       "TrueUp Hardware 50",
@@ -160,49 +460,167 @@
       "min": 220000,
       "max": 350000
     },
-    "median": 259000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 10
+    "vsMedian": 36
   },
   {
-    "dedupeKey": "job:857a605b-ee9f-4b92-bf1e-718d5bd47cfd",
-    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
-    "company": "SpaceX",
-    "companyDomain": "spacex.com",
-    "role": "Superintelligence (SI) Engineer, Special Programs - Top Secret Clearance",
-    "applyUrl": "https://go.landed.jobs/xmolkhr",
-    "location": "Hawthorne, CA +2",
+    "dedupeKey": "job:f56ca3cb-f034-4e00-8b6c-245a6159b695",
+    "companyId": "company_326c1133ff747bf6ac05a1edf37cc36b",
+    "company": "Commonwealth Fusion Systems",
+    "companyDomain": "cfs.energy",
+    "role": "Intern - Molten Salt Blanket Engineer - Summer 2027",
+    "applyUrl": "https://go.landed.jobs/2u1ujgh",
+    "location": "Devens, MA",
     "locations": [
-      "Hawthorne, CA",
-      "Palo Alto, CA",
-      "Washington, D.C., DC"
+      "Devens, MA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-11-20T17:11:13.726Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$10B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 52000,
+      "max": 79040,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 52000,
+      "max": 79040
+    },
+    "median": 81000,
+    "medianBasis": "level",
+    "vsMedian": -19
+  },
+  {
+    "dedupeKey": "job:349c7d9a-a0d8-4781-a153-6d7d91ef14de",
+    "companyId": "company_703f988973ae0a4f30ff0f32a1c066eb",
+    "company": "Fanatics",
+    "companyDomain": "fanatics.com",
+    "role": "Senior Director, AI Deployment",
+    "applyUrl": "https://go.landed.jobs/74lvebc",
+    "location": "Los Angeles, CA · New York City, NY",
+    "locations": [
+      "Los Angeles, CA",
+      "New York City, NY"
     ],
     "remote": "",
     "region": "us",
     "family": "ai_machine_learning",
-    "level": "entry",
+    "level": "director",
     "skills": [
-      "fine-tuning"
+      "LLM",
+      "agentic systems",
+      "AWS",
+      "Google Cloud",
+      "Azure"
     ],
-    "posted": "2026-11-20T19:48:08.000Z",
+    "posted": "2026-11-20T16:45:30.000Z",
     "companyTier": "A",
     "companyBadges": [
-      "TrueUp Hardware 50",
-      "$1.4T valuation"
+      "$31B valuation",
+      "Late stage"
     ],
     "country": "US",
     "pay": {
-      "min": 135000,
-      "max": 190000,
+      "min": 240000,
+      "max": 320000,
       "currency": "USD"
     },
     "payUsd": {
-      "min": 135000,
-      "max": 190000
+      "min": 240000,
+      "max": 320000
     },
-    "median": 162000,
+    "median": 275000,
     "medianBasis": "level",
-    "vsMedian": 0
+    "vsMedian": 2
+  },
+  {
+    "dedupeKey": "job:3cd4fc42-5abf-4480-aaab-b58684ebb5aa",
+    "companyId": "company_00675aa8683ac27daf26c77cccaeddf6",
+    "company": "HubSpot",
+    "companyDomain": "hubspot.com",
+    "role": "Senior AI Engineer",
+    "applyUrl": "https://go.landed.jobs/ufj0vm5",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [
+      "REST APIs",
+      "HubSpot",
+      "marketing automation"
+    ],
+    "posted": "2026-11-20T16:43:46.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$12.2B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 148500,
+      "max": 222800,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 148500,
+      "max": 222800
+    },
+    "median": 210000,
+    "medianBasis": "level",
+    "vsMedian": -12
+  },
+  {
+    "dedupeKey": "job:40f4fce3-dc51-4e79-b2f4-590b7a3450b5",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Research Engineer, Beneficial Deployments",
+    "applyUrl": "https://go.landed.jobs/l9gofhz",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "large language models",
+      "fine-tuning"
+    ],
+    "posted": "2026-11-20T16:38:57.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 500000,
+      "max": 850000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 500000,
+      "max": 850000
+    },
+    "median": 220000,
+    "medianBasis": "role",
+    "vsMedian": 207
   },
   {
     "dedupeKey": "job:2439354d-9b9e-4400-9fc6-899d8da7ece1",
@@ -243,7 +661,7 @@
       "min": 227000,
       "max": 284000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 22
   },
@@ -323,9 +741,9 @@
       "min": 87360,
       "max": 124800
     },
-    "median": 122000,
+    "median": 131000,
     "medianBasis": "level",
-    "vsMedian": -13
+    "vsMedian": -19
   },
   {
     "dedupeKey": "job:de83a7bb-6014-4fc7-a4b3-56f47e59be4b",
@@ -445,7 +863,7 @@
       "min": 157000,
       "max": 171000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -22
   },
@@ -558,9 +976,9 @@
       "min": 155000,
       "max": 170000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -22
+    "vsMedian": -23
   },
   {
     "dedupeKey": "job:56354ae1-c8d4-4919-a7e1-5367e07bb176",
@@ -604,9 +1022,9 @@
       "min": 106100,
       "max": 145100
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": -36
+    "vsMedian": -35
   },
   {
     "dedupeKey": "job:2a3457d3-bbae-4d2e-bb78-cdab1aac1aeb",
@@ -681,9 +1099,9 @@
       "min": 204400,
       "max": 352000
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
-    "vsMedian": 28
+    "vsMedian": 26
   },
   {
     "dedupeKey": "job:251a5f75-9090-4bc5-835e-663c7bcb015c",
@@ -801,9 +1219,9 @@
       "min": 155000,
       "max": 185000
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
-    "vsMedian": -22
+    "vsMedian": -23
   },
   {
     "dedupeKey": "job:0437f16b-f1b3-417e-8a2e-3edb2d2add1f",
@@ -838,9 +1256,9 @@
       "min": 181000,
       "max": 241000
     },
-    "median": 139000,
+    "median": 133000,
     "medianBasis": "level",
-    "vsMedian": 52
+    "vsMedian": 59
   },
   {
     "dedupeKey": "job:10e933ac-cf46-43af-8702-3621767c19c9",
@@ -875,7 +1293,7 @@
       "min": 204000,
       "max": 290000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 18
   },
@@ -915,7 +1333,7 @@
       "min": 137100,
       "max": 299300
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 4
   },
@@ -1108,9 +1526,9 @@
       "min": 213000,
       "max": 263000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 14
+    "vsMedian": 13
   },
   {
     "dedupeKey": "job:06d8e265-f4d0-48e2-a362-e55f57851b86",
@@ -1148,9 +1566,9 @@
       "min": 235000,
       "max": 320000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 42
+    "vsMedian": 44
   },
   {
     "dedupeKey": "job:724dc673-ed5e-4bf2-9b11-c14900242eab",
@@ -1184,7 +1602,7 @@
       "min": 272000,
       "max": 340000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 46
   },
@@ -1224,16 +1642,16 @@
       "min": 138000,
       "max": 190000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": -16
+    "vsMedian": -15
   },
   {
     "dedupeKey": "job:21680593-2a50-4dfb-b33a-b119894a5263",
     "companyId": "company_a9c4f2d6d4a6ffa882a5b9d2aee6c87a",
     "company": "Nuro",
     "companyDomain": "nuro.ai",
-    "role": "ML Research Scientist, Active Learning",
+    "role": "Machine Learning Research Scientist, Active Learning",
     "applyUrl": "https://go.landed.jobs/jwnwmdy",
     "location": "Mountain View, CA",
     "locations": [
@@ -1313,9 +1731,9 @@
       "min": 220000,
       "max": 265000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 16
+    "vsMedian": 15
   },
   {
     "dedupeKey": "job:6f40aede-34d0-4137-a767-f8877f0ad705",
@@ -1352,46 +1770,6 @@
     "median": 163000,
     "medianBasis": "level",
     "vsMedian": 21
-  },
-  {
-    "dedupeKey": "job:d887c388-b9e2-4167-aab6-81dfaf52a962",
-    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
-    "company": "OpenAI",
-    "companyDomain": "openai.com",
-    "role": "Researcher, Frontier Robustness",
-    "applyUrl": "https://go.landed.jobs/1utc9k3",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "",
-    "skills": [
-      "large language models",
-      "containers",
-      "AI agents"
-    ],
-    "posted": "2026-11-16T21:19:51.363Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$852B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 295000,
-      "max": 500000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 295000,
-      "max": 500000
-    },
-    "median": 171000,
-    "medianBasis": "role",
-    "vsMedian": 132
   },
   {
     "dedupeKey": "job:5cc49833-93dc-4dd7-a19e-5ddb789f9806",
@@ -1438,9 +1816,9 @@
       "min": 300000,
       "max": 400000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 79
+    "vsMedian": 81
   },
   {
     "dedupeKey": "job:82c524da-a8ff-4264-abc8-72da6795877e",
@@ -1485,9 +1863,9 @@
       "min": 148750,
       "max": 201250
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": -10
+    "vsMedian": -9
   },
   {
     "dedupeKey": "job:b58559a3-8210-43e6-8e3b-d745c8860024",
@@ -1528,7 +1906,7 @@
       "min": 196750,
       "max": 243290
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 5
   },
@@ -1648,49 +2026,9 @@
       "min": 175000,
       "max": 300000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 14
-  },
-  {
-    "dedupeKey": "job:3ac71dc8-8b72-4bef-a92d-a281f4a77c60",
-    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
-    "company": "OpenAI",
-    "companyDomain": "openai.com",
-    "role": "Applied Scientist, Product Policy Research & Measurement",
-    "applyUrl": "https://go.landed.jobs/eeq6owd",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "SQL"
-    ],
-    "posted": "2026-11-14T16:51:14.713Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$852B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 347000,
-      "max": 385000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 347000,
-      "max": 385000
-    },
-    "median": 163000,
-    "medianBasis": "level",
-    "vsMedian": 125
+    "vsMedian": 13
   },
   {
     "dedupeKey": "job:f885aa18-6410-4443-8aca-b8621d71a6e0",
@@ -1735,9 +2073,9 @@
       "min": 178888,
       "max": 268333
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 7
+    "vsMedian": 6
   },
   {
     "dedupeKey": "job:e41921b7-77a3-4556-8647-93e57dbf8929",
@@ -1778,7 +2116,7 @@
       "min": 170000,
       "max": 300000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 12
   },
@@ -1822,9 +2160,9 @@
       "min": 160000,
       "max": 350000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 31
+    "vsMedian": 32
   },
   {
     "dedupeKey": "job:79726fa4-df2f-42de-82bc-c93d1b5c69f6",
@@ -1896,9 +2234,9 @@
       "min": 295250,
       "max": 345040
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 53
+    "vsMedian": 52
   },
   {
     "dedupeKey": "job:0cbff0c2-1867-41c5-8380-76e5bf5316a7",
@@ -1971,9 +2309,9 @@
       "min": 133410,
       "max": 240710
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
-    "vsMedian": -14
+    "vsMedian": -15
   },
   {
     "dedupeKey": "job:aaac749b-cafb-450d-8253-c728a5c57dfa",
@@ -2007,9 +2345,9 @@
       "min": 172875,
       "max": 253550
     },
-    "median": 181000,
+    "median": 184000,
     "medianBasis": "level",
-    "vsMedian": 18
+    "vsMedian": 16
   },
   {
     "dedupeKey": "job:e4558d7d-f54b-402f-b91a-41292b6e1f06",
@@ -2129,7 +2467,7 @@
       "min": 167800,
       "max": 246800
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -1
   },
@@ -2167,9 +2505,9 @@
       "min": 167000,
       "max": 222000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 0
+    "vsMedian": 1
   },
   {
     "dedupeKey": "job:fd681b5b-e26f-4b80-b017-a064e3bc9416",
@@ -2253,7 +2591,7 @@
       "min": 258000,
       "max": 387000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 54
   },
@@ -2378,9 +2716,9 @@
       "min": 234000,
       "max": 384000
     },
-    "median": 181000,
+    "median": 184000,
     "medianBasis": "level",
-    "vsMedian": 71
+    "vsMedian": 68
   },
   {
     "dedupeKey": "job:513c78a8-6cd5-4b2f-90c1-191dba988606",
@@ -2420,9 +2758,9 @@
       "min": 186200,
       "max": 316500
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
-    "vsMedian": 15
+    "vsMedian": 14
   },
   {
     "dedupeKey": "job:c03025a7-31cf-4dde-ae9b-261917b24f07",
@@ -2459,7 +2797,7 @@
       "min": 162400,
       "max": 290000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 8
   },
@@ -2500,86 +2838,9 @@
       "min": 182750,
       "max": 278500
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 10
-  },
-  {
-    "dedupeKey": "job:0a84495e-433d-4f57-9e45-63442ed95d76",
-    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
-    "company": "Qualcomm",
-    "companyDomain": "qualcomm.com",
-    "role": "Speech and Audio Systems Engineer",
-    "applyUrl": "https://go.landed.jobs/762va5i",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-11-11T17:36:58.856Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$155B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 129500,
-      "max": 194300,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 129500,
-      "max": 194300
-    },
-    "median": 138000,
-    "medianBasis": "level",
-    "vsMedian": 17
-  },
-  {
-    "dedupeKey": "job:5b7c5984-15eb-4bd1-b4f6-f4bfdf1235c1",
-    "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
-    "company": "Qualcomm",
-    "companyDomain": "qualcomm.com",
-    "role": "Staff Software Engineer, AI Software Core",
-    "applyUrl": "https://go.landed.jobs/7hxxg1s",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "Pytorch",
-      "NLP",
-      "Python",
-      "C++"
-    ],
-    "posted": "2026-11-11T17:36:58.856Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$155B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 162000,
-      "max": 243000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 162000,
-      "max": 243000
-    },
-    "median": 252000,
-    "medianBasis": "level",
-    "vsMedian": -20
   },
   {
     "dedupeKey": "job:840e7736-93b3-4981-a80d-3e7881b10ead",
@@ -2717,7 +2978,7 @@
       "min": 163200,
       "max": 264000
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
     "vsMedian": -18
   },
@@ -2759,7 +3020,7 @@
       "min": 220000,
       "max": 292000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 22
   },
@@ -2844,9 +3105,9 @@
       "min": 148750,
       "max": 201250
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": -10
+    "vsMedian": -9
   },
   {
     "dedupeKey": "job:abee77f8-cd62-4b77-af0d-a8c462ad9f36",
@@ -2930,9 +3191,9 @@
       "min": 243290,
       "max": 295250
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 29
+    "vsMedian": 28
   },
   {
     "dedupeKey": "job:e1e22ca8-9ca6-46e9-9eb0-e0e85bca969d",
@@ -3008,42 +3269,6 @@
     "vsMedian": 21
   },
   {
-    "dedupeKey": "job:12377cc2-be8e-48b9-b3c9-9ad546213b15",
-    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
-    "company": "OpenAI",
-    "companyDomain": "openai.com",
-    "role": "Subject Matter Expert, Legal",
-    "applyUrl": "https://go.landed.jobs/szyf07p",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [],
-    "posted": "2026-11-10T17:57:03.817Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$852B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 284000,
-      "max": 315000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 284000,
-      "max": 315000
-    },
-    "median": 218000,
-    "medianBasis": "role",
-    "vsMedian": 37
-  },
-  {
     "dedupeKey": "job:65cdde60-b494-41e8-915f-1708d0fbe4b0",
     "companyId": "company_232d07379862df60a068702fb4788114",
     "company": "Defense Unicorns",
@@ -3086,9 +3311,9 @@
       "min": 148750,
       "max": 201250
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -16
+    "vsMedian": -17
   },
   {
     "dedupeKey": "job:5fce828b-5ba0-4499-9207-87ee56b78ee0",
@@ -3327,9 +3552,9 @@
       "min": 114400,
       "max": 147000
     },
-    "median": 122000,
+    "median": 131000,
     "medianBasis": "level",
-    "vsMedian": 7
+    "vsMedian": 0
   },
   {
     "dedupeKey": "job:ce74c658-57f2-4abe-ab84-40a884a06bb2",
@@ -3363,9 +3588,9 @@
       "min": 255000,
       "max": 447000
     },
-    "median": 181000,
+    "median": 184000,
     "medianBasis": "level",
-    "vsMedian": 94
+    "vsMedian": 91
   },
   {
     "dedupeKey": "job:f0fd7b7d-8480-4f93-9296-5b973b216cd5",
@@ -3412,7 +3637,7 @@
       "min": 129200,
       "max": 209000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -19
   },
@@ -3536,49 +3761,6 @@
     "vsMedian": 5
   },
   {
-    "dedupeKey": "job:29e02f89-7319-4b24-b823-481164d57fff",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "Staff+ Software Engineer, Safeguards Evals",
-    "applyUrl": "https://go.landed.jobs/6u4x9ml",
-    "location": "New York City, NY +2",
-    "locations": [
-      "New York City, NY",
-      "San Francisco, CA",
-      "Seattle, WA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "LLMs",
-      "agentic systems",
-      "distributed systems",
-      "prompt engineering"
-    ],
-    "posted": "2026-11-09T20:05:14.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 320000,
-      "max": 485000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 320000,
-      "max": 485000
-    },
-    "median": 252000,
-    "medianBasis": "level",
-    "vsMedian": 60
-  },
-  {
     "dedupeKey": "job:ebe7540c-3a65-4ead-b825-ca81fecc5422",
     "companyId": "company_9a21eac52d8243aeff93e47de0c5a3a1",
     "company": "Merge Labs",
@@ -3694,9 +3876,9 @@
       "min": 230000,
       "max": 270000
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
-    "vsMedian": 15
+    "vsMedian": 14
   },
   {
     "dedupeKey": "job:980a0a41-1acb-4c78-bf81-bf2c430a65fb",
@@ -3778,50 +3960,6 @@
     "median": 202000,
     "medianBasis": "level",
     "vsMedian": 24
-  },
-  {
-    "dedupeKey": "job:1e381da8-1953-4701-8241-a1c4f6dfbe47",
-    "companyId": "company_bea34bc9d29d0ab7935c486e89f3e7bf",
-    "company": "Zillow",
-    "companyDomain": "zillow.com",
-    "role": "Senior Applied Scientist, Agentic AI",
-    "applyUrl": "https://go.landed.jobs/h4vp40u",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "large language models",
-      "A/B testing",
-      "Python",
-      "SQL",
-      "agentic systems",
-      "fine-tuning",
-      "model deployment"
-    ],
-    "posted": "2026-11-09T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$7.8B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 156200,
-      "max": 262600,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 156200,
-      "max": 262600
-    },
-    "median": 209000,
-    "medianBasis": "level",
-    "vsMedian": 0
   },
   {
     "dedupeKey": "job:64d31461-4432-484d-994d-ed27c4aa7b9c",
@@ -4017,9 +4155,9 @@
       "min": 200000,
       "max": 250000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 8
+    "vsMedian": 7
   },
   {
     "dedupeKey": "job:ac733c18-1d9a-4f25-b831-f314eef27b79",
@@ -4062,9 +4200,9 @@
       "min": 213750,
       "max": 225000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 5
+    "vsMedian": 4
   },
   {
     "dedupeKey": "job:1f62c902-2126-432e-ba23-223ab674507f",
@@ -4358,9 +4496,9 @@
       "min": 140000,
       "max": 180000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": -18
+    "vsMedian": -17
   },
   {
     "dedupeKey": "job:6e148454-ccfa-4432-86a4-fe1f08fc8073",
@@ -4396,9 +4534,9 @@
       "min": 259200,
       "max": 395280
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 57
+    "vsMedian": 56
   },
   {
     "dedupeKey": "job:72ce0b72-34a6-40b8-b968-96366d29c0c4",
@@ -4535,49 +4673,6 @@
     "vsMedian": -22
   },
   {
-    "dedupeKey": "job:6d416fff-5fd8-4b2a-a155-34ffa70bf066",
-    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
-    "company": "Anthropic",
-    "companyDomain": "anthropic.com",
-    "role": "Research Scientist, Discovery (Engineering & Applied Sciences)",
-    "applyUrl": "https://go.landed.jobs/s5akox9",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "PyTorch",
-      "JAX",
-      "reinforcement learning",
-      "pre-training on large language models",
-      "large-scale data pipelines"
-    ],
-    "posted": "2026-11-05T18:52:27.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$965B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 500000,
-      "max": 850000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 500000,
-      "max": 850000
-    },
-    "median": 163000,
-    "medianBasis": "level",
-    "vsMedian": 314
-  },
-  {
     "dedupeKey": "job:ddb9c2b7-4fbf-4a66-9fab-51921b4ef2a7",
     "companyId": "company_2069a46d8e5448744186e1668c5ef6d6",
     "company": "Waabi",
@@ -4623,9 +4718,9 @@
       "min": 200000,
       "max": 280000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 15
+    "vsMedian": 14
   },
   {
     "dedupeKey": "job:dee2ac70-985e-45f7-89a1-8124dfd8f0f8",
@@ -4659,9 +4754,9 @@
       "min": 260000,
       "max": 350000
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
-    "vsMedian": 40
+    "vsMedian": 39
   },
   {
     "dedupeKey": "job:910c4c25-1d59-4ce2-996a-e2f29a5f2eac",
@@ -4698,9 +4793,9 @@
       "min": 260000,
       "max": 350000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 46
+    "vsMedian": 45
   },
   {
     "dedupeKey": "job:8c485628-a5d4-46a0-bfb8-63b1fe679b38",
@@ -4782,9 +4877,9 @@
       "min": 151800,
       "max": 332200
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 16
+    "vsMedian": 15
   },
   {
     "dedupeKey": "job:96f801fe-338e-4e21-9092-4746095cebd2",
@@ -4821,9 +4916,9 @@
       "min": 149750,
       "max": 275580
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 9
+    "vsMedian": 10
   },
   {
     "dedupeKey": "job:28507430-f64d-4293-a17c-71d7262092ca",
@@ -4989,9 +5084,9 @@
       "min": 250000,
       "max": 275000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 26
+    "vsMedian": 25
   },
   {
     "dedupeKey": "job:5765e4c7-ebbf-4002-9c1b-195010fcecb6",
@@ -5029,7 +5124,7 @@
       "min": 220000,
       "max": 275000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 18
   },
@@ -5110,7 +5205,7 @@
       "min": 145000,
       "max": 181250
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -22
   },
@@ -5249,7 +5344,7 @@
       "min": 195000,
       "max": 215000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -2
   },
@@ -5294,9 +5389,9 @@
       "min": 200000,
       "max": 300000
     },
-    "median": 238000,
+    "median": 236000,
     "medianBasis": "level",
-    "vsMedian": 5
+    "vsMedian": 6
   },
   {
     "dedupeKey": "job:dedbe1e3-6074-4e7d-a8ef-1e849a3ba300",
@@ -5380,7 +5475,7 @@
       "min": 200000,
       "max": 235000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 4
   },
@@ -5418,9 +5513,9 @@
       "min": 146000,
       "max": 204000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -16
+    "vsMedian": -17
   },
   {
     "dedupeKey": "job:df77927a-1cd1-4324-b72f-463b9b15372c",
@@ -5462,7 +5557,7 @@
       "min": 154000,
       "max": 257000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -2
   },
@@ -5538,9 +5633,9 @@
       "min": 140000,
       "max": 190000
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
-    "vsMedian": -36
+    "vsMedian": -37
   },
   {
     "dedupeKey": "job:3c3fda62-51d8-403f-9892-1616d5d57df2",
@@ -5632,9 +5727,9 @@
       "min": 204400,
       "max": 352000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 43
+    "vsMedian": 44
   },
   {
     "dedupeKey": "job:2508d332-99dc-4e6f-8d60-6943ac61f1f7",
@@ -5678,49 +5773,9 @@
       "min": 161000,
       "max": 221000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -9
-  },
-  {
-    "dedupeKey": "job:c7a0082b-3413-4d08-8607-d1d4bdc85e00",
-    "companyId": "company_adf934c7126cde9a756695d296f8bbec",
-    "company": "eBay",
-    "companyDomain": "ebay.com",
-    "role": "AI Transformation Lead",
-    "applyUrl": "https://go.landed.jobs/rjas1h2",
-    "location": "Austin, TX",
-    "locations": [
-      "Austin, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "AI tools",
-      "custom GPTs, Gems, AI workflows, prototypes",
-      "Claude Code"
-    ],
-    "posted": "2026-11-03T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$50.6B valuation",
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 115000,
-      "max": 123000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 115000,
-      "max": 123000
-    },
-    "median": 209000,
-    "medianBasis": "level",
-    "vsMedian": -43
   },
   {
     "dedupeKey": "job:dca772dc-b0f8-4ac3-8f1f-d6d84b075ad1",
@@ -5765,7 +5820,7 @@
       "min": 183000,
       "max": 224000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -3
   },
@@ -5814,7 +5869,7 @@
       "min": 197500,
       "max": 264390
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
     "vsMedian": -11
   },
@@ -5858,9 +5913,9 @@
       "min": 119000,
       "max": 180000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -28
+    "vsMedian": -29
   },
   {
     "dedupeKey": "job:6c643275-3252-4970-bb6e-987bc4341318",
@@ -5912,7 +5967,7 @@
       "min": 153000,
       "max": 204000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
     "vsMedian": -8
   },
@@ -5937,87 +5992,6 @@
       "LLM"
     ],
     "posted": "2026-11-02T21:05:02.658Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$11B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 230000,
-      "max": 340000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 230000,
-      "max": 340000
-    },
-    "median": 252000,
-    "medianBasis": "level",
-    "vsMedian": 13
-  },
-  {
-    "dedupeKey": "job:c24ec962-3695-4c5f-9427-05dd463c5a9f",
-    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
-    "company": "Harvey",
-    "companyDomain": "harvey.ai",
-    "role": "Research Engineer / Scientist, Data & Evals",
-    "applyUrl": "https://go.landed.jobs/5l6us8h",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "agentic workflows",
-      "Python",
-      "LLM"
-    ],
-    "posted": "2026-11-02T21:04:50.671Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$11B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 230000,
-      "max": 340000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 230000,
-      "max": 340000
-    },
-    "median": 252000,
-    "medianBasis": "level",
-    "vsMedian": 13
-  },
-  {
-    "dedupeKey": "job:0229b82d-db6f-4fd9-b743-ff98191dca0a",
-    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
-    "company": "Harvey",
-    "companyDomain": "harvey.ai",
-    "role": "Research Engineer / Scientist, Reinforcement Learning",
-    "applyUrl": "https://go.landed.jobs/yzm40io",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "agentic workflows",
-      "LLMs",
-      "distributed training",
-      "Python"
-    ],
-    "posted": "2026-11-02T21:04:39.433Z",
     "companyTier": "A",
     "companyBadges": [
       "TrueUp Hot 200",
@@ -6074,9 +6048,9 @@
       "min": 245500,
       "max": 388500
     },
-    "median": 238000,
+    "median": 236000,
     "medianBasis": "level",
-    "vsMedian": 33
+    "vsMedian": 34
   },
   {
     "dedupeKey": "job:e599f16f-225e-4aba-85fe-ca661808dc1a",
@@ -6112,9 +6086,9 @@
       "min": 211680,
       "max": 272160
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 24
+    "vsMedian": 25
   },
   {
     "dedupeKey": "job:2c7c774f-2389-47bd-80fb-75f52299307d",
@@ -6155,9 +6129,9 @@
       "min": 184000,
       "max": 253000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 5
+    "vsMedian": 4
   },
   {
     "dedupeKey": "job:c201ea99-9a24-4ff4-9924-3318aad1bb80",
@@ -6195,9 +6169,9 @@
       "min": 184000,
       "max": 253000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 5
+    "vsMedian": 4
   },
   {
     "dedupeKey": "job:37103b0d-d52f-4f31-ae36-d9baf337c892",
@@ -6284,7 +6258,7 @@
       "min": 141910,
       "max": 232190
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -11
   },
@@ -6327,9 +6301,9 @@
       "min": 160000,
       "max": 180000
     },
-    "median": 181000,
+    "median": 184000,
     "medianBasis": "level",
-    "vsMedian": -6
+    "vsMedian": -8
   },
   {
     "dedupeKey": "job:5ac60bf6-a2ef-408e-98ef-8ef7f12bdbdf",
@@ -6376,9 +6350,9 @@
       "min": 173000,
       "max": 218500
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -6
+    "vsMedian": -7
   },
   {
     "dedupeKey": "job:dd4c8732-d3a5-4c99-bf9f-d615d2841989",
@@ -6464,9 +6438,9 @@
       "min": 170000,
       "max": 230000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -4
+    "vsMedian": -5
   },
   {
     "dedupeKey": "job:e7c64d80-fbbf-41e5-baef-f33b8944c755",
@@ -6504,9 +6478,9 @@
       "min": 180000,
       "max": 230000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 5
+    "vsMedian": 6
   },
   {
     "dedupeKey": "job:d7396fa1-1c6d-4899-a933-03b539468706",
@@ -6546,9 +6520,9 @@
       "min": 224000,
       "max": 356500
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 39
+    "vsMedian": 38
   },
   {
     "dedupeKey": "job:3b82fdf8-90ad-4fa7-a400-cabc5cfd79fd",
@@ -6592,7 +6566,7 @@
       "min": 197500,
       "max": 264390
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
     "vsMedian": -11
   },
@@ -6730,9 +6704,9 @@
       "min": 187800,
       "max": 250400
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 5
+    "vsMedian": 4
   },
   {
     "dedupeKey": "job:9500f57b-81db-4c33-b6d7-c598be901fc1",
@@ -6769,9 +6743,9 @@
       "min": 180000,
       "max": 250000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 3
+    "vsMedian": 2
   },
   {
     "dedupeKey": "job:83c751a7-a70c-4b8f-9167-1491833fd51d",
@@ -7072,9 +7046,9 @@
       "min": 230000,
       "max": 240000
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
-    "vsMedian": -9
+    "vsMedian": -10
   },
   {
     "dedupeKey": "job:9736e6e6-2612-48ef-a57d-7e2eda0d28f9",
@@ -7111,9 +7085,9 @@
       "min": 137700,
       "max": 275400
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -1
+    "vsMedian": -2
   },
   {
     "dedupeKey": "job:9c8d516d-7d62-4c25-abe5-82e433dfcadd",
@@ -7154,7 +7128,7 @@
       "min": 129200,
       "max": 209000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -19
   },
@@ -7198,9 +7172,9 @@
       "min": 118800,
       "max": 190000
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
-    "vsMedian": -40
+    "vsMedian": -41
   },
   {
     "dedupeKey": "job:f4862e26-84eb-4a27-8a9f-7dc501e73ce1",
@@ -7237,9 +7211,9 @@
       "min": 129188,
       "max": 189475
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
-    "vsMedian": -27
+    "vsMedian": -28
   },
   {
     "dedupeKey": "job:a6dd01e6-5882-46ca-b5b2-c0043801f827",
@@ -7275,9 +7249,9 @@
       "min": 41600,
       "max": 114400
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
-    "vsMedian": -64
+    "vsMedian": -65
   },
   {
     "dedupeKey": "job:a574036a-1fdb-402f-89ea-e8f0dff276f5",
@@ -7363,7 +7337,7 @@
       "min": 153000,
       "max": 296000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 7
   },
@@ -7401,7 +7375,7 @@
       "min": 180000,
       "max": 210000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -7
   },
@@ -7444,9 +7418,9 @@
       "min": 162750,
       "max": 238700
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 3
+    "vsMedian": 4
   },
   {
     "dedupeKey": "job:ae7639d2-13d0-4e0b-ae97-f4b12d6e8660",
@@ -7642,449 +7616,98 @@
       "min": 195000,
       "max": 229000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 1
   },
   {
-    "dedupeKey": "job:9aba89c6-ca38-4e23-ba3d-4f6e0bd9f0d4",
-    "companyId": "company_3466d047dd0863dfd8d2e4351a08fd8e",
-    "company": "KoBold Metals",
-    "companyDomain": "koboldmetals.com",
-    "role": "Senior Applied Scientist (Onsite/Hybrid)",
-    "applyUrl": "https://go.landed.jobs/e64x06h",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:c22c819c-5a1d-487c-a69a-b65f33b4d757",
+    "companyId": "company_4c64378cc9f7b3a002c872197cbff883",
+    "company": "iSpot.tv",
+    "companyDomain": "ispot.tv",
+    "role": "Principal Research Data Scientist",
+    "applyUrl": "https://go.landed.jobs/gt5lpgn",
+    "location": "Bellevue, WA",
     "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "senior",
-    "skills": [
-      "design, development, and deployment of new subsurface imaging hardware",
-      "mechanical and electrical systems of new imaging instruments",
-      "system architecture definition",
-      "deploying and supporting complex equipment to remote sites"
-    ],
-    "posted": "2026-10-23T23:07:39.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp ClimateTech 50",
-      "$3B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 130000,
-      "max": 190000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 130000,
-      "max": 190000
-    },
-    "median": 163000,
-    "medianBasis": "level",
-    "vsMedian": -2
-  },
-  {
-    "dedupeKey": "job:a18e4358-a305-4f28-abe6-73339b3d1787",
-    "companyId": "company_fb4782b82e655ec4347dfd7a4993945d",
-    "company": "Form Energy",
-    "companyDomain": "formenergy.com",
-    "role": "Staff AI Platform Engineer",
-    "applyUrl": "https://go.landed.jobs/zjozfs7",
-    "location": "Somerville, MA +3",
-    "locations": [
-      "Somerville, MA",
-      "Berkeley, CA",
-      "Weirton, WV",
-      "US"
+      "Bellevue, WA"
     ],
     "remote": "hybrid",
     "region": "us",
-    "family": "ai_machine_learning",
-    "level": "staff",
+    "family": "research_science",
+    "level": "principal",
     "skills": [
-      "Python",
       "Go",
-      "LLM",
-      "PostgreSQL",
-      "AWS",
-      "containers",
-      "Terraform",
-      "CI/CD"
-    ],
-    "posted": "2026-10-23T22:18:15.916Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp ClimateTech 50",
-      "$4B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 128660,
-      "max": 184966,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 128660,
-      "max": 184966
-    },
-    "median": 252000,
-    "medianBasis": "level",
-    "vsMedian": -38
-  },
-  {
-    "dedupeKey": "job:a8a59f05-5cd4-459f-a307-1bdec8ec9bee",
-    "companyId": "company_97dabf705555b18b239ad8819ca20667",
-    "company": "David AI",
-    "companyDomain": "withdavid.ai",
-    "role": "Research Engineer",
-    "applyUrl": "https://go.landed.jobs/lq4ngrp",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "mid",
-    "skills": [
-      "Strong Python skills",
-      "Experience deploying ML systems for production inference with cloud technologies",
-      "Experience with speech, audio, or digital signal processing",
-      "Experience with data curation, search and retrieval, embeddings, clustering, deduplication, or sampling",
-      "Experience building model inference systems or integrating pretrained models into production workflows",
-      "Experience in publishing in top conferences such as NeurIPS, ICML, ICLR, CVPR, etc.",
-      "Experience in releasing, maintaining, contributing to open-source softwares"
-    ],
-    "posted": "2026-10-23T19:09:24.395Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S24",
-      "$500M valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 210000,
-      "max": 360000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 210000,
-      "max": 360000
-    },
-    "median": 195000,
-    "medianBasis": "level",
-    "vsMedian": 46
-  },
-  {
-    "dedupeKey": "job:ba13079e-35e6-47aa-ae19-c1f155527892",
-    "companyId": "company_5a00883f75b4e926e06957b0989f13d7",
-    "company": "Snowflake",
-    "companyDomain": "snowflake.com",
-    "role": "Senior AI/ML Architect, Applied Field Engineering",
-    "applyUrl": "https://go.landed.jobs/yliek9t",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Texas, TX"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "machine learning",
-      "generative AI",
-      "cloud",
-      "infrastructure-as-a-service platforms",
-      "Snowflake",
-      "large-scale database technology"
-    ],
-    "posted": "2026-10-23T16:43:12.752Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$102B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 165000,
-      "max": 216562,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 165000,
-      "max": 216562
-    },
-    "median": 209000,
-    "medianBasis": "level",
-    "vsMedian": -9
-  },
-  {
-    "dedupeKey": "job:66bb4e2b-9dcc-4be9-b5b6-d90ed9ceebd9",
-    "companyId": "company_cdc2c0c2fd8c89c41b6c0e75b18adb0e",
-    "company": "Twilio",
-    "companyDomain": "twilio.com",
-    "role": "Staff Machine Learning Engineer",
-    "applyUrl": "https://go.landed.jobs/mbdh28t",
-    "location": "🌐 Remote (Canada)",
-    "locations": [
-      "Ontario, CA",
-      "Canada"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "staff",
-    "skills": [
-      "LLM",
+      "causal inference",
+      "Python",
+      "PyTorch",
+      "computer vision",
+      "NLP",
+      "LLMs",
+      "RAG",
+      "fine-tuning",
+      "prompt engineering",
       "AWS",
       "Azure"
     ],
-    "posted": "2026-10-23T16:17:20.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-22T17:03:29.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Remote 200",
-      "$29.9B valuation"
+      "$1B valuation"
     ],
     "country": "US",
     "pay": {
-      "min": 160320,
-      "max": 200400,
+      "min": 168529,
+      "max": 207644,
       "currency": "USD"
     },
     "payUsd": {
-      "min": 160320,
-      "max": 200400
+      "min": 168529,
+      "max": 207644
     },
-    "median": 252000,
+    "median": 184000,
     "medianBasis": "level",
-    "vsMedian": -28
+    "vsMedian": 2
   },
   {
-    "dedupeKey": "job:e01efb07-4f08-464c-b505-0ebc5681679b",
-    "companyId": "company_37ac329a16ecef19c58b6ed06caad46f",
-    "company": "Inworld AI",
-    "companyDomain": "inworld.ai",
-    "role": "Senior Machine Learning Engineer, Inference - USA",
-    "applyUrl": "https://go.landed.jobs/ashxsdz",
-    "location": "Mountain View, CA",
+    "dedupeKey": "job:74eb7201-3b73-4761-9930-1f98cc37f26a",
+    "companyId": "company_7b07abd6a666428b7b4295fcdcea6180",
+    "company": "Heartflow",
+    "companyDomain": "heartflow.com",
+    "role": "Senior Research Scientist, Multimodal Deep Learning and Risk Prediction",
+    "applyUrl": "https://go.landed.jobs/xpt9hs5",
+    "location": "San Francisco, CA",
     "locations": [
-      "Mountain View, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLMs",
-      "agentic systems",
-      "node",
-      "Kubernetes",
-      "Distributed Systems",
-      "multi-GPU"
-    ],
-    "posted": "2026-10-23T03:04:34.257Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Digital Media 50",
-      "$500M valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 250000,
-      "max": 300000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 250000,
-      "max": 300000
-    },
-    "median": 209000,
-    "medianBasis": "level",
-    "vsMedian": 32
-  },
-  {
-    "dedupeKey": "job:2c932545-d374-4240-bd2f-a6a85b983e06",
-    "companyId": "company_06cb5f0430f468760b266ee398eb478b",
-    "company": "Panthalassa",
-    "companyDomain": "panthalassa.com",
-    "role": "Director of Marine Environmental Impact",
-    "applyUrl": "https://go.landed.jobs/dt18wm0",
-    "location": "Portland, OR",
-    "locations": [
-      "Portland, OR"
+      "San Francisco, CA"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "research_science",
-    "level": "director",
-    "skills": [
-      "marine biology",
-      "oceanography",
-      "ecology",
-      "ocean sensing",
-      "environmental monitoring systems",
-      "passive hydrophones",
-      "temperature and salinity sensors",
-      "underwater cameras",
-      "eDNA",
-      "large scientific datasets"
-    ],
-    "posted": "2026-10-23T01:26:27.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$1B valuation",
-      "Series C"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 230000,
-      "max": 350000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 230000,
-      "max": 350000
-    },
-    "median": 238000,
-    "medianBasis": "level",
-    "vsMedian": 22
-  },
-  {
-    "dedupeKey": "job:bd66f62e-68ef-45f2-9cc9-3e263b4ea551",
-    "companyId": "company_c9cdffe855fbf98ef02dc07d9646ea98",
-    "company": "Glean",
-    "companyDomain": "glean.com",
-    "role": "AI Engineer - Quality and Post-Training",
-    "applyUrl": "https://go.landed.jobs/3xl6atd",
-    "location": "San Francisco, CA · Mountain View, CA",
-    "locations": [
-      "San Francisco, CA",
-      "Mountain View, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
     "level": "senior",
     "skills": [
-      "LLM",
-      "AI agents",
       "Python",
-      "TypeScript",
-      "Go"
+      "C++",
+      "PyTorch",
+      "Computer Vision"
     ],
-    "posted": "2026-10-23T00:13:28.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-21T01:52:49.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$7.2B valuation"
+      "$1.3B valuation",
+      "Public"
     ],
     "country": "US",
     "pay": {
-      "min": 200000,
-      "max": 280000,
+      "min": 180000,
+      "max": 240000,
       "currency": "USD"
     },
     "payUsd": {
-      "min": 200000,
-      "max": 280000
+      "min": 180000,
+      "max": 240000
     },
-    "median": 209000,
+    "median": 163000,
     "medianBasis": "level",
-    "vsMedian": 15
-  },
-  {
-    "dedupeKey": "job:3bc78f87-c6f4-4cc7-ae6d-ca78bd9a71f7",
-    "companyId": "company_c9cdffe855fbf98ef02dc07d9646ea98",
-    "company": "Glean",
-    "companyDomain": "glean.com",
-    "role": "AI Engineer - Data and Evals",
-    "applyUrl": "https://go.landed.jobs/vo59c2y",
-    "location": "San Francisco, CA · Mountain View, CA",
-    "locations": [
-      "San Francisco, CA",
-      "Mountain View, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLM",
-      "Python",
-      "TypeScript",
-      "Go",
-      "RAG",
-      "CI/CD",
-      "observability",
-      "SQL"
-    ],
-    "posted": "2026-10-23T00:12:02.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$7.2B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 200000,
-      "max": 280000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 200000,
-      "max": 280000
-    },
-    "median": 209000,
-    "medianBasis": "level",
-    "vsMedian": 15
-  },
-  {
-    "dedupeKey": "job:8180d649-64de-4c21-913a-1a8d35dbf995",
-    "companyId": "company_bea34bc9d29d0ab7935c486e89f3e7bf",
-    "company": "Zillow",
-    "companyDomain": "zillow.com",
-    "role": "Applied Scientist (Economics) Intern",
-    "applyUrl": "https://go.landed.jobs/yzlbsll",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "research_science",
-    "level": "intern",
-    "skills": [
-      "probability",
-      "statistics",
-      "regression analysis",
-      "econometrics",
-      "time-series",
-      "causal analysis",
-      "AI tools"
-    ],
-    "posted": "2026-10-23T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$7.8B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 104000,
-      "max": 166000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 104000,
-      "max": 166000
-    },
-    "median": 81000,
-    "medianBasis": "level",
-    "vsMedian": 67
+    "vsMedian": 29
   },
   {
     "dedupeKey": "job:fbbbab59-5c39-4cb1-8e86-c49a1817a9b7",
@@ -8164,6 +7787,41 @@
     "median": 163000,
     "medianBasis": "level",
     "vsMedian": -14
+  },
+  {
+    "dedupeKey": "job:a6df3a79-e3b0-4e78-b80e-522a3c7db704",
+    "companyId": "company_b324778b91864eea9143d5eef83df309",
+    "company": "Freenome",
+    "companyDomain": "freenome.com",
+    "role": "Senior Research Associate",
+    "applyUrl": "https://go.landed.jobs/gufpmf6",
+    "location": "Brisbane, CA",
+    "locations": [
+      "Brisbane, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-20T22:16:13.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2.6B valuation"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 97850,
+      "max": 126000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 97850,
+      "max": 126000
+    },
+    "median": 163000,
+    "medianBasis": "level",
+    "vsMedian": -31
   },
   {
     "dedupeKey": "job:2947349c-0ce9-4511-b502-de7a8b6824b8",
@@ -8271,9 +7929,9 @@
       "min": 130000,
       "max": 143000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": -30
+    "vsMedian": -29
   },
   {
     "dedupeKey": "job:dcbe1e83-e2ae-4c12-9d4b-59ef05f30f24",
@@ -8348,9 +8006,46 @@
       "min": 250000,
       "max": 300000
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
     "vsMedian": 6
+  },
+  {
+    "dedupeKey": "job:e07eff6b-8bd4-4395-9002-475b890e650f",
+    "companyId": "company_af786dcc20ec1dcf62dd64afb6eeed2c",
+    "company": "Virta Health",
+    "companyDomain": "virtahealth.com",
+    "role": "Senior Manager, Applied AI & Machine Learning",
+    "applyUrl": "https://go.landed.jobs/lapxv3p",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-20T20:13:48.158Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2B valuation",
+      "Series E"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 250000,
+      "max": 270000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 250000,
+      "max": 270000
+    },
+    "median": 210000,
+    "medianBasis": "level",
+    "vsMedian": 24
   },
   {
     "dedupeKey": "job:7668f086-40d5-4b7c-a72c-e2ba2f3e6cea",
@@ -8496,7 +8191,7 @@
       "min": 181000,
       "max": 297400
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 14
   },
@@ -8534,9 +8229,9 @@
       "min": 238400,
       "max": 330200
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
-    "vsMedian": 10
+    "vsMedian": 9
   },
   {
     "dedupeKey": "job:81042e38-7745-495d-a7dd-5b7beded7657",
@@ -8614,9 +8309,9 @@
       "min": 360000,
       "max": 425000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 88
+    "vsMedian": 87
   },
   {
     "dedupeKey": "job:ed09ede8-0d34-42e7-895b-080e89786be5",
@@ -8662,9 +8357,9 @@
       "min": 360000,
       "max": 425000
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
-    "vsMedian": 80
+    "vsMedian": 78
   },
   {
     "dedupeKey": "job:cce16825-c64a-4b96-bba2-7e9563a3b674",
@@ -8702,9 +8397,9 @@
       "min": 220000,
       "max": 240000
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
-    "vsMedian": -11
+    "vsMedian": -12
   },
   {
     "dedupeKey": "job:f22599f8-3203-4ca6-a2fa-e41a5dbd04aa",
@@ -8739,52 +8434,9 @@
       "min": 160000,
       "max": 220000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -9
-  },
-  {
-    "dedupeKey": "job:e1584a1b-ca60-40ff-a3cd-3545d583c435",
-    "companyId": "company_860d14b55a7d54ba235f84fd69fff124",
-    "company": "Veeam Software",
-    "companyDomain": "veeam.com",
-    "role": "Finance AI Engineer",
-    "applyUrl": "https://go.landed.jobs/c9u4m6z",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "CI/CD",
-      "LLMs",
-      "agent orchestration",
-      "SQL",
-      "Databricks",
-      "REST APIs"
-    ],
-    "posted": "2026-11-19T20:25:50.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$15B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 106401,
-      "max": 272520,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 106401,
-      "max": 272520
-    },
-    "median": 209000,
-    "medianBasis": "level",
-    "vsMedian": -9
+    "vsMedian": -10
   },
   {
     "dedupeKey": "job:e43e7747-dfff-4a6b-8e5f-4709b426136e",
@@ -8862,9 +8514,9 @@
       "min": 211000,
       "max": 263500
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 14
+    "vsMedian": 13
   },
   {
     "dedupeKey": "job:f954c330-6322-4900-ad0f-5c0a3029c8ec",
@@ -8901,7 +8553,7 @@
       "min": 110000,
       "max": 140000
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
     "vsMedian": -43
   },
@@ -8990,9 +8642,9 @@
       "min": 166200,
       "max": 304700
     },
-    "median": 238000,
+    "median": 236000,
     "medianBasis": "level",
-    "vsMedian": -1
+    "vsMedian": 0
   },
   {
     "dedupeKey": "job:42010dc0-390a-41b9-b134-5a6f3da45c11",
@@ -9254,6 +8906,46 @@
     "vsMedian": 41
   },
   {
+    "dedupeKey": "job:e81eba82-f26f-49df-8fd0-785a98fcbf13",
+    "companyId": "company_d8fcdad716627f222ae7a1cd77a0e354",
+    "company": "OutSystems",
+    "companyDomain": "outsystems.com",
+    "role": "Principal AI Engineer",
+    "applyUrl": "https://go.landed.jobs/6fzsdb8",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "LLMs",
+      "Python",
+      "C#"
+    ],
+    "posted": "2026-11-19T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.3B valuation",
+      "Late stage"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 229500,
+      "max": 270000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 229500,
+      "max": 270000
+    },
+    "median": 260000,
+    "medianBasis": "level",
+    "vsMedian": -4
+  },
+  {
     "dedupeKey": "job:e377cb23-2ea7-475a-9ae1-ead1db02f04a",
     "companyId": "company_5728c3e3472de39e3e00b186513528dc",
     "company": "BillionToOne",
@@ -9324,9 +9016,9 @@
       "min": 225000,
       "max": 250000
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
-    "vsMedian": -8
+    "vsMedian": -9
   },
   {
     "dedupeKey": "job:276a12fb-d0ad-497f-828e-77a8d532f5b1",
@@ -9397,9 +9089,9 @@
       "min": 275000,
       "max": 400000
     },
-    "median": 238000,
+    "median": 236000,
     "medianBasis": "level",
-    "vsMedian": 42
+    "vsMedian": 43
   },
   {
     "dedupeKey": "job:27f47b58-e2a7-42e4-b44c-4a647d3d02e9",
@@ -9437,9 +9129,9 @@
       "min": 195000,
       "max": 276000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 13
+    "vsMedian": 12
   },
   {
     "dedupeKey": "job:4b720dc3-20ab-43aa-97ca-dcbde57e38e2",
@@ -9477,9 +9169,9 @@
       "min": 195000,
       "max": 276000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 13
+    "vsMedian": 12
   },
   {
     "dedupeKey": "job:70294364-8cdb-4f31-b5b3-83d3d4c4f837",
@@ -9516,9 +9208,9 @@
       "min": 72800,
       "max": 83200
     },
-    "median": 122000,
+    "median": 131000,
     "medianBasis": "level",
-    "vsMedian": -36
+    "vsMedian": -40
   },
   {
     "dedupeKey": "job:93b9e6c1-35fd-45f4-a098-85ff8d72e8ac",
@@ -9783,7 +9475,7 @@
       "min": 149603,
       "max": 254317
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
     "vsMedian": -22
   },
@@ -9820,7 +9512,7 @@
       "min": 118095,
       "max": 200762
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -24
   },
@@ -9964,9 +9656,9 @@
       "min": 220000,
       "max": 260000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 15
+    "vsMedian": 14
   },
   {
     "dedupeKey": "job:50359792-aa23-4dbf-b75b-ff81b681ac0f",
@@ -10003,7 +9695,7 @@
       "min": 183340,
       "max": 206000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -7
   },
@@ -10051,9 +9743,9 @@
       "min": 124900,
       "max": 228900
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -15
+    "vsMedian": -16
   },
   {
     "dedupeKey": "job:6de8df77-6590-4f0b-a91c-840630a14ab7",
@@ -10099,9 +9791,9 @@
       "min": 124900,
       "max": 228900
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -15
+    "vsMedian": -16
   },
   {
     "dedupeKey": "job:d72d7009-bc9e-4057-b9d2-0cc2070d2f82",
@@ -10252,7 +9944,7 @@
       "min": 119774,
       "max": 131955
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -40
   },
@@ -10294,7 +9986,7 @@
       "min": 181000,
       "max": 212900
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -6
   },
@@ -10496,9 +10188,9 @@
       "min": 160000,
       "max": 200000
     },
-    "median": 218000,
+    "median": 220000,
     "medianBasis": "role",
-    "vsMedian": -17
+    "vsMedian": -18
   },
   {
     "dedupeKey": "job:3af19b3b-e070-4e86-93d7-144fa3a92257",
@@ -10750,7 +10442,7 @@
       "min": 132500,
       "max": 366300
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 19
   },
@@ -10923,9 +10615,9 @@
       "min": 132500,
       "max": 338300
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 13
+    "vsMedian": 12
   },
   {
     "dedupeKey": "job:9f8e8f74-fb53-42e6-8d15-6597a5d7c2a8",
@@ -10990,7 +10682,7 @@
       "min": 132500,
       "max": 366300
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": 19
   },
@@ -11029,9 +10721,9 @@
       "min": 129000,
       "max": 205000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": -14
+    "vsMedian": -13
   },
   {
     "dedupeKey": "job:e09a331c-79a6-48c5-aace-24d717651427",
@@ -11066,7 +10758,7 @@
       "min": 153770,
       "max": 186327
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -19
   },
@@ -11106,9 +10798,9 @@
       "min": 178500,
       "max": 222000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 3
+    "vsMedian": 4
   },
   {
     "dedupeKey": "job:4a839829-deb0-45fc-a6d7-0c1e187affa6",
@@ -11143,9 +10835,9 @@
       "min": 264300,
       "max": 368900
     },
-    "median": 238000,
+    "median": 236000,
     "medianBasis": "level",
-    "vsMedian": 33
+    "vsMedian": 34
   },
   {
     "dedupeKey": "job:9b08595d-2922-4387-8610-e8021e3b9aa9",
@@ -11182,7 +10874,7 @@
       "min": 113400,
       "max": 252000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -13
   },
@@ -11221,7 +10913,7 @@
       "min": 113400,
       "max": 252000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -13
   },
@@ -11521,7 +11213,7 @@
       "min": 200500,
       "max": 406500
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
     "vsMedian": 17
   },
@@ -11560,9 +11252,9 @@
       "min": 255600,
       "max": 284000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 29
+    "vsMedian": 28
   },
   {
     "dedupeKey": "job:a28544f6-eb32-4390-a513-496beb9871a1",
@@ -11602,7 +11294,7 @@
       "min": 77725,
       "max": 108265
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
     "vsMedian": -52
   },
@@ -11729,9 +11421,9 @@
       "min": 167700,
       "max": 231800
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": -4
+    "vsMedian": -5
   },
   {
     "dedupeKey": "job:dc439fdf-a2fb-45b1-a9ad-81c2b74c9f0e",
@@ -11842,9 +11534,9 @@
       "min": 200000,
       "max": 250000
     },
-    "median": 195000,
+    "median": 193000,
     "medianBasis": "level",
-    "vsMedian": 15
+    "vsMedian": 17
   },
   {
     "dedupeKey": "job:834ff816-645b-4bdb-b557-f542df1b5f6f",
@@ -11920,9 +11612,9 @@
       "min": 220000,
       "max": 357000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 38
+    "vsMedian": 37
   },
   {
     "dedupeKey": "job:4fccafad-89b0-48f9-875e-f6e1954ec59b",
@@ -11956,9 +11648,9 @@
       "min": 192000,
       "max": 240000
     },
-    "median": 238000,
+    "median": 236000,
     "medianBasis": "level",
-    "vsMedian": -9
+    "vsMedian": -8
   },
   {
     "dedupeKey": "job:206875f2-30bb-457a-bee8-a7276ecf99ba",
@@ -12068,9 +11760,9 @@
       "min": 146400,
       "max": 219600
     },
-    "median": 181000,
+    "median": 184000,
     "medianBasis": "level",
-    "vsMedian": 1
+    "vsMedian": -1
   },
   {
     "dedupeKey": "job:f677e829-9d96-493e-8e96-486e321c46e0",
@@ -12144,9 +11836,9 @@
       "min": 180000,
       "max": 197000
     },
-    "median": 238000,
+    "median": 236000,
     "medianBasis": "level",
-    "vsMedian": -21
+    "vsMedian": -20
   },
   {
     "dedupeKey": "job:dff56289-1401-4a83-8051-e01a57026e73",
@@ -12182,9 +11874,9 @@
       "min": 247000,
       "max": 363000
     },
-    "median": 259000,
+    "median": 260000,
     "medianBasis": "level",
-    "vsMedian": 18
+    "vsMedian": 17
   },
   {
     "dedupeKey": "job:d6e28a06-ae52-44fa-b3f5-d39d65bfd3aa",
@@ -12218,9 +11910,9 @@
       "min": 200000,
       "max": 250000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
-    "vsMedian": 8
+    "vsMedian": 7
   },
   {
     "dedupeKey": "job:211ea3d4-addb-4780-b809-ea7286aa3017",
@@ -12265,7 +11957,7 @@
       "min": 180000,
       "max": 230000
     },
-    "median": 209000,
+    "median": 210000,
     "medianBasis": "level",
     "vsMedian": -2
   },
@@ -12308,5 +12000,241 @@
     "median": 252000,
     "medianBasis": "level",
     "vsMedian": -17
+  },
+  {
+    "dedupeKey": "job:972fcd1c-3068-4fb7-b199-e07d3651a5fd",
+    "companyId": "company_539d428ce68a20a701c7d3d81bdab806",
+    "company": "Culture Amp",
+    "companyDomain": "cultureamp.com",
+    "role": "Senior People Science Analyst (12 month FTC)",
+    "applyUrl": "https://go.landed.jobs/dk988ll",
+    "location": "New York City, NY · Berlin, Germany",
+    "locations": [
+      "New York City, NY",
+      "Berlin, Germany"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-10T15:06:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.5B valuation",
+      "Series F"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 140000,
+      "max": 160000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 140000,
+      "max": 160000
+    },
+    "median": 163000,
+    "medianBasis": "level",
+    "vsMedian": -8
+  },
+  {
+    "dedupeKey": "job:00358b49-633a-4281-93e4-eb4c06f41afb",
+    "companyId": "company_647e9bbe1e445f3b284f4475fee87511",
+    "company": "Anysphere",
+    "companyDomain": "cursor.com",
+    "role": "Sr. Model Engineer, RL Data",
+    "applyUrl": "https://go.landed.jobs/26lb8cc",
+    "location": "Palo Alto, CA",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "senior",
+    "skills": [
+      "fine-tuning",
+      "Python",
+      "Rust",
+      "C++",
+      "PyTorch",
+      "distributed training"
+    ],
+    "posted": "2026-11-10T00:30:25.091Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Series D"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 220000,
+      "max": 357000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 220000,
+      "max": 357000
+    },
+    "median": 163000,
+    "medianBasis": "level",
+    "vsMedian": 77
+  },
+  {
+    "dedupeKey": "job:484238b9-6ba2-45cf-a4a8-d531c8780009",
+    "companyId": "company_647e9bbe1e445f3b284f4475fee87511",
+    "company": "Anysphere",
+    "companyDomain": "cursor.com",
+    "role": "Model Engineer, RL Data",
+    "applyUrl": "https://go.landed.jobs/gg6ep2o",
+    "location": "Palo Alto, CA",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "",
+    "skills": [
+      "Python",
+      "Rust",
+      "C++",
+      "PyTorch",
+      "distributed training"
+    ],
+    "posted": "2026-11-10T00:05:24.239Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Series D"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 160000,
+      "max": 250000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 160000,
+      "max": 250000
+    },
+    "median": 171000,
+    "medianBasis": "role",
+    "vsMedian": 20
+  },
+  {
+    "dedupeKey": "job:65638350-cf0c-464b-b2b4-a6a51dde8c5e",
+    "companyId": "company_6b8510ec45e00d4e449f6fac0c6ec511",
+    "company": "PayPal",
+    "companyDomain": "paypal.com",
+    "role": "Staff Machine Learning Engineer",
+    "applyUrl": "https://go.landed.jobs/gfmufhw",
+    "location": "San Jose, CA",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "staff",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-11-10T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$99.5B valuation",
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 196833,
+      "max": 333500,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 196833,
+      "max": 333500
+    },
+    "median": 252000,
+    "medianBasis": "level",
+    "vsMedian": 5
+  },
+  {
+    "dedupeKey": "job:aa8611bb-8021-438e-b499-94d94b740b45",
+    "companyId": "company_ce2884fb155d5ac406d0ca905e328840",
+    "company": "Teladoc Health",
+    "companyDomain": "teladochealth.com",
+    "role": "Principal II AI Platform Engineer, GenAI",
+    "applyUrl": "https://go.landed.jobs/ynap7sh",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "Databricks",
+      "agentic systems",
+      "LLM",
+      "Python",
+      "CI/CD"
+    ],
+    "posted": "2026-11-10T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.2B valuation",
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 250000,
+      "max": 300000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 250000,
+      "max": 300000
+    },
+    "median": 260000,
+    "medianBasis": "level",
+    "vsMedian": 6
+  },
+  {
+    "dedupeKey": "job:ec38a8fc-af4c-46c3-8e1e-c2708c42a203",
+    "companyId": "company_bfcbb5ff48b37b52b17b041f572061c6",
+    "company": "InterDigital",
+    "companyDomain": "interdigital.com",
+    "role": "Research Engineer / Scientist (Wireless + AI/ML)",
+    "applyUrl": "https://go.landed.jobs/y6xftkz",
+    "location": "Conshohocken, PA",
+    "locations": [
+      "Conshohocken, PA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "research_science",
+    "level": "",
+    "skills": [],
+    "posted": "2026-11-10T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$7.9B valuation",
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 80000,
+      "max": 120000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 80000,
+      "max": 120000
+    },
+    "median": 171000,
+    "medianBasis": "role",
+    "vsMedian": -42
   }
 ]
