@@ -7639,92 +7639,6 @@
     "vsMedian": -30
   },
   {
-    "dedupeKey": "job:dfd2a924-1939-4e74-8650-2c388def5ee9",
-    "companyId": "company_acb4ffda1a668b448bd13d98fe3d194d",
-    "company": "Figma",
-    "companyDomain": "figma.com",
-    "role": "AI Engineer, Internal Tools",
-    "applyUrl": "https://go.landed.jobs/2m5lsmb",
-    "location": "San Francisco, CA +3",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY",
-      "Canada",
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLMs",
-      "retrieval-augmented generation",
-      "observability",
-      "agent orchestration",
-      "Salesforce",
-      "Zendesk",
-      "go",
-      "Figma"
-    ],
-    "posted": "2026-10-27T18:11:12.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$12.8B valuation",
-      "Public"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 153000,
-      "max": 296000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 153000,
-      "max": 296000
-    },
-    "median": 210000,
-    "medianBasis": "level",
-    "vsMedian": 7
-  },
-  {
-    "dedupeKey": "job:c099a175-5e05-4210-bab3-d28a3ebf6418",
-    "companyId": "company_420fca1f6f86287bc1e902ad8f9c8773",
-    "company": "TRM Labs",
-    "companyDomain": "trmlabs.com",
-    "role": "Senior Machine Learning Engineer, Knowledge Layer",
-    "applyUrl": "https://go.landed.jobs/mwcksgp",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-10-27T16:04:17.974Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S19",
-      "$2B valuation"
-    ],
-    "country": "US",
-    "pay": {
-      "min": 180000,
-      "max": 210000,
-      "currency": "USD"
-    },
-    "payUsd": {
-      "min": 180000,
-      "max": 210000
-    },
-    "median": 210000,
-    "medianBasis": "level",
-    "vsMedian": -7
-  },
-  {
     "dedupeKey": "job:d383e753-8379-450b-87bf-d75a29727fb5",
     "companyId": "company_9300cb9584710caebc5243eadca13040",
     "company": "Twist Bioscience",
@@ -12170,5 +12084,85 @@
     "median": 174000,
     "medianBasis": "role",
     "vsMedian": 18
+  },
+  {
+    "dedupeKey": "job:65638350-cf0c-464b-b2b4-a6a51dde8c5e",
+    "companyId": "company_6b8510ec45e00d4e449f6fac0c6ec511",
+    "company": "PayPal",
+    "companyDomain": "paypal.com",
+    "role": "Staff Machine Learning Engineer",
+    "applyUrl": "https://go.landed.jobs/gfmufhw",
+    "location": "San Jose, CA",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "staff",
+    "skills": [
+      "Python"
+    ],
+    "posted": "2026-11-10T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$99.5B valuation",
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 196833,
+      "max": 333500,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 196833,
+      "max": 333500
+    },
+    "median": 252000,
+    "medianBasis": "level",
+    "vsMedian": 5
+  },
+  {
+    "dedupeKey": "job:aa8611bb-8021-438e-b499-94d94b740b45",
+    "companyId": "company_ce2884fb155d5ac406d0ca905e328840",
+    "company": "Teladoc Health",
+    "companyDomain": "teladochealth.com",
+    "role": "Principal II AI Platform Engineer, GenAI",
+    "applyUrl": "https://go.landed.jobs/ynap7sh",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "Databricks",
+      "agentic systems",
+      "LLM",
+      "Python",
+      "CI/CD"
+    ],
+    "posted": "2026-11-10T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.2B valuation",
+      "Public"
+    ],
+    "country": "US",
+    "pay": {
+      "min": 250000,
+      "max": 300000,
+      "currency": "USD"
+    },
+    "payUsd": {
+      "min": 250000,
+      "max": 300000
+    },
+    "median": 260000,
+    "medianBasis": "level",
+    "vsMedian": 6
   }
 ]
